@@ -1,0 +1,65 @@
+# Career-Ops Profile Configuration
+# Ayush Kumar's profile
+
+candidate:
+  full_name: "Ayush Kumar"
+  email: "vancityAyush@gmail.com"
+  phone: "+91 9060842579"
+  location: "Bengaluru, India"
+  linkedin: "linkedin.com/in/eliasak11"
+  github: "github.com/vancityAyush"
+
+target_roles:
+  primary:
+    - "Senior Mobile Engineer"
+    - "Senior Full Stack Engineer"
+    - "Flutter Developer"
+    - "React Native Developer"
+  archetypes:
+    - name: "Mobile Engineer (Flutter/React Native)"
+      level: "Mid-Senior"
+      fit: "primary"
+    - name: "Full Stack Engineer (Node.js/TypeScript)"
+      level: "Mid-Senior"
+      fit: "primary"
+    - name: "Android Engineer (Kotlin)"
+      level: "Mid-Senior"
+      fit: "secondary"
+    - name: "Frontend Engineer (React/Next.js)"
+      level: "Mid"
+      fit: "secondary"
+    - name: "Backend Engineer (NestJS/Node.js)"
+      level: "Mid"
+      fit: "adjacent"
+
+narrative:
+  headline: "Full-stack mobile engineer with cross-platform expertise (Flutter, React Native, Kotlin) and strong backend chops"
+  exit_story: "Started as a product developer building web apps, moved into mobile engineering across IoT (BLE), field service, and health-tech. Certified across the stack (Android, AWS, Node.js, React Native, PostgreSQL). Looking for a senior role where I can own mobile architecture end-to-end."
+  superpowers:
+    - "Cross-platform mobile (Flutter + React Native) with native Kotlin bridge"
+    - "Full stack delivery — mobile to NestJS microservices to PostgreSQL"
+    - "TDD discipline — 80%+ coverage as standard practice"
+    - "BLE/IoT integration and real-time data streaming"
+    - "CI/CD pipelines (GitHub Actions, Gradle, Fastlane)"
+  proof_points:
+    - name: "Enterprise FSM App"
+      hero_metric: "95%+ crash-free, 100+ field engineers, 30% API latency reduction"
+    - name: "BLE Module (HealthFlex)"
+      hero_metric: "55+ unit tests, 20Hz streaming, 40% latency reduction"
+    - name: "Taskify"
+      url: "https://github.com/vancityAyush/taskify"
+      hero_metric: "100% test coverage, JWT auth, Docker deployment"
+    - name: "E-Bike Assistant (EMotorad)"
+      hero_metric: "70% map cost reduction, 90% BLE stability improvement"
+
+compensation:
+  target_range: "₹20L-35L"
+  currency: "INR"
+  minimum: "₹18L"
+  location_flexibility: "Remote preferred, open to hybrid in Bengaluru"
+
+location:
+  country: "India"
+  city: "Bengaluru"
+  timezone: "IST (UTC+5:30)"
+  visa_status: "Indian citizen"

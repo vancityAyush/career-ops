@@ -1,7 +1,6 @@
 # Personal data (user fills these)
 data/applications.md
-data/pipeline.md
-data/scan-history.tsv
+# pipeline.md and scan-history.tsv are tracked for remote scan trigger state persistence
 reports/*.md
 !reports/.gitkeep
 output/*
@@ -15,10 +14,8 @@ batch/tracker-additions/*.tsv
 jds/*
 !jds/.gitkeep
 
-# User config and customization (never auto-updated)
-config/profile.yml
-portals.yml
-modes/_profile.md
+# User config — tracked so remote scan trigger can read them
+# (profile.yml, portals.yml, _profile.md intentionally committed to this fork)
 .update-dismissed
 .update-lock
 

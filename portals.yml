@@ -1,0 +1,412 @@
+# Portal Scanner Configuration
+# Used by /career-ops scan to discover new offers automatically.
+#
+# Strategy (3 levels):
+#   1. Playwright → careers_url of each company (real-time, reliable)
+#   2. Greenhouse API → structured JSON (fast, Greenhouse-only)
+#   3. WebSearch with site: filters (broad discovery, may be stale)
+#
+# IMPORTANT: Each company in tracked_companies MUST have careers_url.
+#
+# HOW TO CUSTOMIZE:
+#   1. Copy this file to portals.yml in the project root
+#   2. Edit title_filter.positive with YOUR target role keywords
+#   3. Add/remove companies in tracked_companies
+#   4. Adjust search_queries for your preferred job boards
+#   5. Set enabled: false on companies you don't care about
+
+# -- Title filter --
+# The scanner uses these keywords to decide if a title is relevant.
+# At least 1 positive must match AND 0 negatives must match (case-insensitive).
+
+title_filter:
+  positive:
+    # -- Mobile roles --
+    - "Flutter"
+    - "React Native"
+    - "Mobile Engineer"
+    - "Mobile Developer"
+    - "App Developer"
+    - "Cross-Platform"
+    - "Dart"
+    # -- Android roles --
+    - "Android"
+    - "Kotlin"
+    # -- Full Stack roles --
+    - "Full Stack"
+    - "Fullstack"
+    - "Full-Stack"
+    # -- Frontend roles --
+    - "Frontend"
+    - "Front-End"
+    - "React"
+    - "Next.js"
+    # -- Backend roles --
+    - "Backend"
+    - "Back-End"
+    - "Node.js"
+    - "NestJS"
+    - "TypeScript"
+    # -- General engineering --
+    - "Software Engineer"
+    - "Software Developer"
+    - "SDE"
+    - "Product Engineer"
+    - "Founding Engineer"
+    # -- IoT / BLE --
+    - "IoT"
+    - "BLE"
+    - "Bluetooth"
+  negative:
+    # [CUSTOMIZE] Roles to exclude
+    - "Junior"
+    - "Intern"
+    - ".NET"
+    - "Java "
+    - "PHP"
+    - "Ruby"
+    - "Embedded"
+    - "Firmware"
+    - "FPGA"
+    - "ASIC"
+    - "Blockchain"
+    - "Web3"
+    - "Crypto"
+    - "Salesforce Admin"
+    - "SAP "
+    - "Oracle EBS"
+    - "Mainframe"
+    - "COBOL"
+    - "C++"
+    - "Rust"
+    - "Go "
+    - "DevOps"
+    - "SRE"
+    - "Data Scientist"
+    - "ML Engineer"
+  seniority_boost:
+    # These prefixes add relevance but are not required
+    - "Senior"
+    - "Staff"
+    - "Principal"
+    - "Lead"
+    - "Head"
+    - "Director"
+
+# -- Search queries --
+# Each query triggers a WebSearch. Use site: to filter by portal.
+# The scanner extracts title, URL, and company from results.
+
+search_queries:
+  # -- Ashby --
+  - name: Ashby — Flutter & React Native
+    query: 'site:jobs.ashbyhq.com "Flutter" OR "React Native" OR "Mobile Engineer" remote'
+    enabled: true
+
+  - name: Ashby — Full Stack TypeScript
+    query: 'site:jobs.ashbyhq.com "Full Stack" OR "Fullstack" TypeScript OR "Node.js" OR "NestJS" remote senior'
+    enabled: true
+
+  - name: Ashby — Android Kotlin
+    query: 'site:jobs.ashbyhq.com "Android Engineer" OR "Kotlin" senior remote'
+    enabled: true
+
+  # -- Greenhouse --
+  - name: Greenhouse — Mobile Engineer
+    query: 'site:job-boards.greenhouse.io "Flutter" OR "React Native" OR "Mobile Engineer" OR "Mobile Developer" remote'
+    enabled: true
+
+  - name: Greenhouse — Full Stack Senior
+    query: 'site:job-boards.greenhouse.io "Full Stack" OR "Fullstack" "Senior" TypeScript OR "Node.js" remote'
+    enabled: true
+
+  - name: Greenhouse — Android Kotlin
+    query: 'site:job-boards.greenhouse.io "Android Engineer" OR "Android Developer" OR "Kotlin" senior remote'
+    enabled: true
+
+  # -- Lever --
+  - name: Lever — Mobile & Full Stack
+    query: 'site:jobs.lever.co "Flutter" OR "React Native" OR "Mobile Engineer" OR "Full Stack" TypeScript remote'
+    enabled: true
+
+  # -- Wellfound (startups) --
+  - name: Wellfound — Mobile Engineer
+    query: 'site:wellfound.com "Flutter" OR "React Native" OR "Mobile Engineer" remote senior'
+    enabled: true
+
+  - name: Wellfound — Full Stack
+    query: 'site:wellfound.com "Full Stack" OR "Fullstack" TypeScript OR "Node.js" remote senior'
+    enabled: true
+
+  # -- YC startups --
+  - name: YC Jobs — Mobile & Full Stack
+    query: 'site:workatastartup.com "Flutter" OR "React Native" OR "Mobile Engineer" OR "Full Stack" TypeScript remote'
+    enabled: true
+
+  # -- India job boards --
+  - name: Naukri — Flutter & Mobile (Bengaluru)
+    query: 'site:naukri.com "Flutter" OR "React Native" "Senior" Bengaluru OR remote'
+    enabled: true
+
+  - name: Instahyre — Senior Mobile & Full Stack
+    query: 'site:instahyre.com "Flutter" OR "React Native" OR "Mobile Engineer" OR "Full Stack" senior'
+    enabled: true
+
+  - name: Cutshort — Mobile & TypeScript
+    query: 'site:cutshort.io "Flutter" OR "React Native" OR "Full Stack" TypeScript senior'
+    enabled: true
+
+  # -- Global remote job boards --
+  - name: RemoteOK — Mobile & Full Stack
+    query: 'site:remoteok.com "Flutter" OR "React Native" OR "Mobile" OR "Full Stack" engineer'
+    enabled: true
+
+  - name: WeWorkRemotely — Mobile & Full Stack
+    query: 'site:weworkremotely.com "Mobile" OR "Flutter" OR "React Native" OR "Full Stack" engineer'
+    enabled: true
+
+  - name: Himalayas — Remote Mobile
+    query: 'site:himalayas.app "Flutter" OR "React Native" OR "Mobile Engineer" OR "Full Stack" remote'
+    enabled: true
+
+  - name: Remotive — Mobile & Full Stack
+    query: 'site:remotive.com "Flutter" OR "React Native" OR "Mobile Engineer" OR "Full Stack" TypeScript'
+    enabled: true
+
+  - name: HN Who's Hiring — Mobile & Full Stack
+    query: 'site:news.ycombinator.com "Flutter" OR "React Native" OR "Mobile Engineer" OR "Full Stack" TypeScript remote'
+    enabled: true
+
+# -- Tracked companies --
+# Companies whose career pages are checked directly.
+# scan_method: playwright (default), websearch, greenhouse_api
+# For Greenhouse companies, add api: field for faster structured JSON access.
+
+tracked_companies:
+
+  # -- Bengaluru / India — consumer & fintech (heavy mobile hiring) --
+
+  - name: Meesho
+    careers_url: https://meesho.io/jobs
+    scan_method: websearch
+    scan_query: 'site:meesho.io/jobs OR "meesho" "Flutter" OR "React Native" OR "Android" OR "Mobile Engineer"'
+    notes: "Bengaluru. Social commerce unicorn. Heavy Flutter & Android hiring."
+    enabled: true
+
+  - name: Razorpay
+    careers_url: https://job-boards.greenhouse.io/razorpay
+    api: https://boards-api.greenhouse.io/v1/boards/razorpay/jobs
+    notes: "Bengaluru. Payments unicorn. React Native + Node.js stack."
+    enabled: true
+
+  - name: CRED
+    careers_url: https://jobs.lever.co/cred
+    notes: "Bengaluru. Fintech unicorn. Flutter & Kotlin mobile team."
+    enabled: true
+
+  - name: PhonePe
+    careers_url: https://www.phonepe.com/careers/
+    scan_method: websearch
+    scan_query: 'site:phonepe.com/careers "Android" OR "Flutter" OR "Mobile Engineer" OR "React Native"'
+    notes: "Bengaluru. UPI payments giant. Large mobile engineering org."
+    enabled: true
+
+  - name: Swiggy
+    careers_url: https://careers.swiggy.com
+    scan_method: websearch
+    scan_query: 'site:careers.swiggy.com "Android" OR "Flutter" OR "React Native" OR "Mobile Engineer" OR "Full Stack"'
+    notes: "Bengaluru. Food delivery unicorn. Cross-platform mobile teams."
+    enabled: true
+
+  - name: Groww
+    careers_url: https://groww.in/open-positions
+    scan_method: websearch
+    scan_query: '"groww" "Android" OR "Flutter" OR "React Native" OR "Mobile" site:groww.in OR site:job-boards.greenhouse.io'
+    notes: "Bengaluru. Fintech unicorn. Large mobile org."
+    enabled: true
+
+  - name: Zepto
+    careers_url: https://www.zeptonow.com/careers
+    scan_method: websearch
+    scan_query: '"zepto" OR "zeptonow" "Android" OR "Flutter" OR "Mobile Engineer" careers'
+    notes: "Mumbai. Quick commerce unicorn. Hiring senior mobile engineers."
+    enabled: true
+
+  - name: Slice
+    careers_url: https://sliceit.com/careers
+    scan_method: websearch
+    scan_query: '"slice" "sliceit" "Android" OR "Flutter" OR "React Native" careers engineer'
+    notes: "Bengaluru. Fintech. Mobile-first credit card product."
+    enabled: true
+
+  - name: Urban Company
+    careers_url: https://urbancompany.com/careers
+    scan_method: websearch
+    scan_query: '"Urban Company" OR "urbancompany" "Android" OR "Flutter" OR "Mobile" careers engineer'
+    notes: "Bengaluru. Home services marketplace. React Native + Android hiring."
+    enabled: true
+
+  - name: Dream11
+    careers_url: https://job-boards.greenhouse.io/dream11
+    api: https://boards-api.greenhouse.io/v1/boards/dream11/jobs
+    notes: "Mumbai. Fantasy sports unicorn. Large mobile + backend org."
+    enabled: true
+
+  - name: ShareChat / Moj
+    careers_url: https://sharechat.com/careers
+    scan_method: websearch
+    scan_query: '"ShareChat" OR "Moj" "Android" OR "Flutter" OR "Mobile" careers engineer'
+    notes: "Bengaluru. Short-video & social platform. Android + Flutter stack."
+    enabled: true
+
+  - name: InMobi
+    careers_url: https://job-boards.greenhouse.io/inmobi
+    api: https://boards-api.greenhouse.io/v1/boards/inmobi/jobs
+    notes: "Bengaluru. Mobile AdTech. Android & iOS SDK engineering roles."
+    enabled: true
+
+  - name: Navi Technologies
+    careers_url: https://navi.com/careers
+    scan_method: websearch
+    scan_query: '"Navi" OR "navi.com" "Android" OR "Flutter" OR "Mobile" careers engineer senior'
+    notes: "Bengaluru. Fintech (loans, insurance). Mobile-first product."
+    enabled: true
+
+  - name: BrowserStack
+    careers_url: https://www.browserstack.com/careers
+    scan_method: websearch
+    scan_query: 'site:browserstack.com/careers "Android" OR "Flutter" OR "Mobile" OR "Full Stack" engineer senior'
+    notes: "Mumbai + remote. Testing platform. Full stack & mobile roles."
+    enabled: true
+
+  - name: Postman
+    careers_url: https://job-boards.greenhouse.io/postman
+    api: https://boards-api.greenhouse.io/v1/boards/postman/jobs
+    notes: "Bengaluru + remote. API platform. Full stack TypeScript & mobile."
+    enabled: true
+
+  - name: Hasura
+    careers_url: https://hasura.io/careers
+    scan_method: websearch
+    scan_query: 'site:hasura.io/careers "Full Stack" OR "Frontend" OR "TypeScript" OR "React" engineer remote'
+    notes: "Bengaluru / Remote. GraphQL + data API platform. Remote-first."
+    enabled: true
+
+  - name: Freshworks
+    careers_url: https://job-boards.greenhouse.io/freshworks
+    api: https://boards-api.greenhouse.io/v1/boards/freshworks/jobs
+    notes: "Chennai + Bengaluru. SaaS unicorn. Mobile & full stack roles."
+    enabled: true
+
+  - name: Chargebee
+    careers_url: https://job-boards.greenhouse.io/chargebee
+    api: https://boards-api.greenhouse.io/v1/boards/chargebee/jobs
+    notes: "Chennai + remote. Subscription billing SaaS. Full stack TypeScript."
+    enabled: true
+
+  - name: Unacademy
+    careers_url: https://unacademy.com/careers
+    scan_method: websearch
+    scan_query: '"Unacademy" "Android" OR "Flutter" OR "React Native" OR "Mobile" careers engineer senior'
+    notes: "Bengaluru. EdTech unicorn. Cross-platform mobile."
+    enabled: true
+
+  - name: HealthifyMe
+    careers_url: https://jobs.lever.co/healthifyme
+    notes: "Bengaluru. Health & fitness app. Flutter + React Native."
+    enabled: true
+
+  - name: Lenskart
+    careers_url: https://lenskart.com/careers
+    scan_method: websearch
+    scan_query: '"Lenskart" "Android" OR "Flutter" OR "Mobile" OR "React Native" careers engineer senior'
+    notes: "Bengaluru. D2C eyewear. Large mobile org."
+    enabled: true
+
+  # -- Global remote-friendly (mobile & full stack focus) --
+
+  - name: Shopify
+    careers_url: https://job-boards.greenhouse.io/shopify
+    api: https://boards-api.greenhouse.io/v1/boards/shopify/jobs
+    notes: "Remote-first globally. Large Flutter & React Native mobile team."
+    enabled: true
+
+  - name: Linear
+    careers_url: https://jobs.ashbyhq.com/linear
+    notes: "Remote globally. TypeScript/Node.js + React. Selective hiring."
+    enabled: true
+
+  - name: Notion
+    careers_url: https://jobs.lever.co/notion
+    notes: "SF / NYC / Remote. TypeScript/React/Node.js. Mobile apps on Flutter."
+    enabled: true
+
+  - name: Figma
+    careers_url: https://job-boards.greenhouse.io/figma
+    api: https://boards-api.greenhouse.io/v1/boards/figma/jobs
+    notes: "SF / London / Remote. TypeScript + React frontend. Strong mobile."
+    enabled: true
+
+  - name: Stripe
+    careers_url: https://stripe.com/jobs
+    scan_method: websearch
+    scan_query: 'site:stripe.com/jobs "Mobile Engineer" OR "React Native" OR "Android" OR "Full Stack" TypeScript'
+    notes: "SF / Dublin / Remote. Payments infra. Mobile SDK + full stack."
+    enabled: true
+
+  - name: Vercel
+    careers_url: https://job-boards.greenhouse.io/vercel
+    api: https://boards-api.greenhouse.io/v1/boards/vercel/jobs
+    notes: "Remote globally. Next.js/React/TypeScript. Frontend & full stack."
+    enabled: true
+
+  - name: Supabase
+    careers_url: https://jobs.ashbyhq.com/supabase
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/supabase "engineer" OR "full stack" OR "mobile"'
+    notes: "Remote-first. Postgres + Auth + Storage. TypeScript backend."
+    enabled: true
+
+  - name: 1Password
+    careers_url: https://jobs.lever.co/1password
+    notes: "Remote globally. Mobile-first security app. React Native + Swift + Kotlin."
+    enabled: true
+
+  - name: Duolingo
+    careers_url: https://job-boards.greenhouse.io/duolingo
+    api: https://boards-api.greenhouse.io/v1/boards/duolingo/jobs
+    notes: "Pittsburgh / Remote. Mobile-first learning app. Flutter + React Native."
+    enabled: true
+
+  - name: Canva
+    careers_url: https://www.canva.com/careers/jobs/
+    scan_method: websearch
+    scan_query: 'site:canva.com/careers "Mobile Engineer" OR "Android" OR "Flutter" OR "React Native" OR "Full Stack"'
+    notes: "Sydney / Remote. Design platform. Large mobile & full stack org. India-friendly remote."
+    enabled: true
+
+  - name: Atlassian
+    careers_url: https://job-boards.greenhouse.io/atlassian
+    api: https://boards-api.greenhouse.io/v1/boards/atlassian/jobs
+    notes: "Sydney / Austin / Amsterdam / Remote. Jira/Confluence. Mobile & full stack."
+    enabled: true
+
+  - name: Descript
+    careers_url: https://job-boards.greenhouse.io/descript
+    api: https://boards-api.greenhouse.io/v1/boards/descript/jobs
+    notes: "Remote globally. Audio/video editor. TypeScript + React + Electron."
+    enabled: true
+
+  - name: Buffer
+    careers_url: https://journey.buffer.com/
+    scan_method: websearch
+    scan_query: '"Buffer" careers "Mobile" OR "React Native" OR "Full Stack" OR "TypeScript" engineer remote'
+    notes: "Remote-first globally. Social media scheduling. React Native mobile."
+    enabled: true
+
+  - name: Intercom
+    careers_url: https://job-boards.greenhouse.io/intercom
+    api: https://boards-api.greenhouse.io/v1/boards/intercom/jobs
+    notes: "Dublin / SF / Remote. Customer comms. Full stack TypeScript + mobile."
+    enabled: true
+
