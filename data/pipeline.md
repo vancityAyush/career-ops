@@ -135,4 +135,81 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://www.workatastartup.com/jobs/70301 | Bree (YC) | Software Engineer, React Native (Mobile)
 - [ ] https://wellfound.com/jobs/3701526-senior-full-stack-engineer-node-js-nestjs-ai-first | Flow | Senior Full-Stack Engineer (Node.js / NestJS, AI-First)
 
+### From Greenhouse APIs — 2026-04-13 scan
+
+- [ ] https://job-boards.greenhouse.io/postman/jobs/7545584003 | Postman | Senior Software Engineer - Client SDK (UI Platform)
+- [ ] https://job-boards.greenhouse.io/postman/jobs/7627390003 | Postman | Senior Software Engineer, Ecosystem
+- [ ] https://job-boards.greenhouse.io/postman/jobs/7668642003 | Postman | Senior Software Engineer – Test Infrastructure
+- [ ] https://boards.greenhouse.io/figma/jobs/5692525004 | Figma | Software Engineer, Backend - Figma Weave (Tel Aviv)
+- [ ] https://boards.greenhouse.io/figma/jobs/5759501004 | Figma | Software Engineer, Code Platform
+- [ ] https://boards.greenhouse.io/figma/jobs/5552560004 | Figma | Software Engineer, Growth & Monetization
+- [ ] https://boards.greenhouse.io/figma/jobs/5790627004 | Figma | Software Engineer, Developer Experience
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5431123004 | Vercel | Software Engineer, Backend
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5808568004 | Vercel | Software Engineer, Dashboard
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5613601004 | Vercel | Software Engineer, Growth
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5704320004 | Vercel | Software Engineer, Agent
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5474915004 | Vercel | Software Engineer, AI SDK
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5798406004 | Vercel | Software Engineer, AI Gateway
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5798416004 | Vercel | Software Engineer, Workflows
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5813134004 | Vercel | Software Engineer, Domains
+- [ ] https://careers.duolingo.com/jobs/8445379002 | Duolingo | Senior Software Engineer, Chess
+- [ ] https://careers.duolingo.com/jobs/8489365002 | Duolingo | Staff Software Engineer
+- [ ] https://boards.greenhouse.io/descript/jobs/7499700003 | Descript | Senior Software Engineer, Agent
+- [ ] https://boards.greenhouse.io/descript/jobs/7580335003 | Descript | Senior Software Engineer, AI Platform and Enablement
+- [ ] https://boards.greenhouse.io/descript/jobs/7668317003 | Descript | Senior Software Engineer, Client Platform
+- [ ] https://boards.greenhouse.io/descript/jobs/7683752003 | Descript | Senior Software Engineer, Growth
+- [ ] https://boards.greenhouse.io/descript/jobs/7449735003 | Descript | Software Engineer, Editor
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7274831 | Intercom | Senior Full Stack Engineer - Team Web
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7371924 | Intercom | Senior Product Engineer, AI
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7382846 | Intercom | Senior Product Engineer, AI Platform
+
+### From WebSearch — Ashby (2026-04-13)
+
+- [ ] https://jobs.ashbyhq.com/fullstory/6491c517-3a3e-43f3-87b3-dd992e457a2e | Fullstory | Senior Manager, Mobile Engineering
+- [ ] https://jobs.ashbyhq.com/bjakcareer/e6214c51-20d8-4b6a-ba4c-61f5516a0c0f | Bjak | Mobile App Developer (Flutter / React Native)
+- [ ] https://jobs.ashbyhq.com/backpack/1f99261f-0d1d-47e4-8db7-8afd10d722f6 | Backpack | Mobile Engineer (React Native)
+- [ ] https://jobs.ashbyhq.com/ruby-labs/424f41d1-8e51-4e87-bc3b-776923226d15 | Ruby Labs | Senior Full Stack Developer (NextJS / NestJS)
+- [ ] https://jobs.ashbyhq.com/truelogic/fb485ff3-a4f8-436b-8ba4-c80b45214614 | Truelogic | Senior Full-Stack Engineer (Next.js / TypeScript / Node.js)
+- [ ] https://jobs.ashbyhq.com/windranger/4a6ce867-ac8b-4544-be6c-b2acc616b2a8 | Windranger Labs | Senior Fullstack Engineer
+- [ ] https://jobs.ashbyhq.com/thirstysprout/b6f9c767-0940-461f-bb79-a07ab3221cac | ThirstySprout | Senior Fullstack Engineer (Vue, TypeScript)
+- [ ] https://jobs.ashbyhq.com/OnHires/2a91f0f7-a7d1-4d50-8caf-bcb7a72f42ef | OnHires | Senior Fullstack (Node.js + React.js)
+- [ ] https://jobs.ashbyhq.com/dynamic/f55b3ddb-5dd6-480e-ae39-c823dfff3de5 | Dynamic | Senior Fullstack Software Engineer
+
+### From WebSearch — Greenhouse non-API (2026-04-13)
+
+- [ ] https://job-boards.greenhouse.io/canonicaljobs/jobs/7131504 | Canonical | Web Frontend Engineer - JS, CSS, React, Flutter
+- [ ] https://job-boards.greenhouse.io/renewedvision/jobs/5142014008 | Renewed Vision | Software Engineer — React / Next.js / React Native
+- [ ] https://job-boards.greenhouse.io/privateidentity/jobs/4010169009 | Private Identity | Senior Android / Kotlin Developer
+- [ ] https://job-boards.greenhouse.io/valtech/jobs/4790501101 | Valtech | Freelance Lead Mobile Developer (Kotlin Multiplatform)
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/6763397 | Reddit | Senior Software Engineer, Android Test Engineering
+- [ ] https://job-boards.greenhouse.io/easygo/jobs/4937485007 | Easygo | Senior Mobile Engineer (Android)
+
+### From WebSearch — Lever (2026-04-13)
+
+- [ ] https://jobs.lever.co/brillio-2/545210ab-e0cf-4a0e-9dd9-0a79230c96d3 | Brillio | React Native Mobile FullStack Developer
+- [ ] https://jobs.lever.co/sprucesystems/b6ed1d39-d3e4-454f-8d8c-a5a65d64651f | Spruce | Full-Stack Software Engineer (Remote)
+- [ ] https://jobs.lever.co/Fliff/5da9855b-90e2-4482-bf2c-6187e2431e4d | Fliff | React Native Engineer II
+- [ ] https://jobs.lever.co/smart-working-solutions/edb25c79-8a30-4b3f-8c77-5c72915c346b | Smart Working Solutions | Senior Full Stack Engineer (Clojure, React Native, TypeScript)
+- [ ] https://jobs.lever.co/FlatironsDevelopment/27149367-7e6d-4141-a9c6-e5a99e30dce8 | Flatirons | Senior React Native Developer (Remote, LATAM)
+
+### From WebSearch — YC / Himalayas / WeWorkRemotely / Remotive (2026-04-13)
+
+- [ ] https://www.workatastartup.com/jobs/60293 | Popl (YC) | Mobile App Developer - React Native
+- [ ] https://www.workatastartup.com/jobs/71011 | Per Diem (YC) | React Native Developer
+- [ ] https://himalayas.app/companies/jobgether/jobs/mobile-app-developer-flutter-latam | Jobgether | Mobile App Developer (Flutter) — LATAM Remote
+- [ ] https://weworkremotely.com/remote-jobs/fullstack-react-native-engineer-1 | WeWorkRemotely | FullStack React Native Engineer
+- [ ] https://weworkremotely.com/remote-jobs/co-create-senior-full-stack-engineer-react-native | Co:Create | Senior Full Stack Engineer (React Native)
+- [ ] https://weworkremotely.com/remote-jobs/lofty-senior-react-native-developer | Lofty | Senior React Native Developer
+- [ ] https://weworkremotely.com/listings/pronto-pilates-pty-ltd-react-native-full-stack-developer | Pronto Pilates | React Native Full Stack Developer
+- [ ] https://weworkremotely.com/listings/genius-senior-full-stack-engineer | Genius | Senior Full-Stack Engineer
+- [ ] https://weworkremotely.com/remote-jobs/g2i-inc-fullstack-developer-react-react-native-node-js-remote | G2i | Fullstack Developer (React, React Native, Node.js)
+- [ ] https://remotive.com/remote/jobs/software-development/senior-software-development-engineer-full-stack-4231355 | Jobgether | Senior Software Development Engineer - Full Stack
+- [ ] https://remotive.com/remote/jobs/software-development/mobile-developer-4021023 | Herbalife | Mobile Developer
+- [ ] https://remotive.com/remote/jobs/software-development/mobile-developer-4283857 | Robusta | Mobile Developer
+- [ ] https://remotive.com/remote/jobs/software-development/react-native-developer-4089237 | LG Electronics | React Native Developer
+- [ ] https://remotive.com/remote/jobs/software-development/react-native-engineer-3895617 | Kellton Europe | React Native Engineer
+- [ ] https://remotive.com/remote/jobs/software-dev/mobile-react-native-developer-2573691 | INNOCV Solutions | Mobile React Native Developer
+- [ ] https://remotive.com/remote/jobs/software-dev/react-native-developer-2605271 | ProTalent Recruiters | React Native Developer
+- [ ] https://remotive.com/remote/jobs/software-development/react-native-developer-3566482 | Bright Vision Technologies | React Native Developer
+
 ## Procesados
