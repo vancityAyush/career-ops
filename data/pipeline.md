@@ -212,4 +212,61 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://remotive.com/remote/jobs/software-dev/react-native-developer-2605271 | ProTalent Recruiters | React Native Developer
 - [ ] https://remotive.com/remote/jobs/software-development/react-native-developer-3566482 | Bright Vision Technologies | React Native Developer
 
+### From Greenhouse APIs — 2026-04-19 scan
+
+- [ ] https://job-boards.greenhouse.io/inmobi/jobs/7810952 | InMobi | SDE III - CDR | Lucknow
+- [ ] https://job-boards.greenhouse.io/postman/jobs/7703523003 | Postman | Senior Software Engineer, Monetization
+- [ ] https://boards.greenhouse.io/figma/jobs/5691886004 | Figma | Software Engineer, AI Platforms
+- [ ] https://boards.greenhouse.io/figma/jobs/5551730004 | Figma | Software Engineer, AI Product
+- [ ] https://boards.greenhouse.io/figma/jobs/5551697004 | Figma | Software Engineer, AI Product (London)
+- [ ] https://boards.greenhouse.io/figma/jobs/5552522004 | Figma | Software Engineer, Graphics & Media
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5788954004 | Vercel | Senior Software Engineer, Trust & Safety
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5704321004 | Vercel | Software Engineer, Agent
+- [ ] https://careers.duolingo.com/jobs/8318257002 | Duolingo | Senior iOS Software Engineer
+- [ ] https://careers.duolingo.com/jobs/8393272002 | Duolingo | Senior iOS Software Engineer
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7556413 | Intercom | Forward Deployed Software Engineer
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/6428373 | Intercom | Product Engineer
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/6428372 | Intercom | Senior Product Engineer
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/6276021 | Intercom | Senior Product Engineer, AI
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/6466001 | Intercom | Senior Product Engineer - AI Platform
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7254082 | Intercom | Senior Product Engineer - API & Integrations
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7371989 | Intercom | Software Engineer
+
+### From WebSearch — Ashby (2026-04-19)
+
+- [ ] https://jobs.ashbyhq.com/mobilefirst/7eb9a0cc-c63e-4d16-9012-505188aa8f9a | The Mobile-First Company | Senior React Native Engineer
+- [ ] https://jobs.ashbyhq.com/squadformers/23960810-5b99-4217-b8b8-369a4ad3b920 | Aligned | Senior Android (Kotlin) Engineer
+- [ ] https://jobs.ashbyhq.com/niantic-spatial/bd930b59-d50f-4c4b-8371-8d1c7dd3bca5 | Niantic Spatial | Senior Mobile Native Engineer (Kotlin)
+- [ ] https://jobs.ashbyhq.com/mexdigital/d5639dbb-616b-41f0-8b5c-99d4f97e4afe | Multibank Group | Android Engineer
+- [ ] https://jobs.ashbyhq.com/lendable/bb61cc0c-9f20-4db0-bd29-b4d4e4a6d956 | Lendable | Senior Kotlin/JVM Engineer
+- [ ] https://jobs.ashbyhq.com/voize/1be1d5a4-7d37-49b1-a4d7-df541e9c8741 | voize | Android Engineer - Kotlin
+- [ ] https://jobs.ashbyhq.com/revenuecat/02277895-991b-4b2a-a5b5-c7e607ccecf7 | RevenueCat | Senior Android SDK Engineer
+- [ ] https://jobs.ashbyhq.com/OnHires/06198cf6-a7ce-419a-aee1-abc880814f48 | OnHires | Senior Software Engineer (Backend, Kotlin)
+
+### From WebSearch — Greenhouse non-API (2026-04-19)
+
+- [ ] https://job-boards.greenhouse.io/fueledcareers/jobs/4794662008 | Fueled | Freelance Flutter Engineer (Contract)
+- [ ] https://job-boards.greenhouse.io/paloit/jobs/6082474 | PALO IT | Fullstack Mobile Engineer (Flutter)
+- [ ] https://job-boards.greenhouse.io/hs/jobs/7280772 | Headspace | Senior Software Engineer, Flutter
+- [ ] https://job-boards.greenhouse.io/knock/jobs/5641358004 | Knock | Senior Full Stack Software Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/santex/jobs/8148230002 | Santex | Senior Full-Stack Developer (Node.js + TypeScript)
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/5026013008 | Cresta | Senior Full Stack Engineer - Conversation Intelligence
+- [ ] https://job-boards.greenhouse.io/earnin/jobs/7308756 | EarnIn | Senior Mobile Engineer (Android)
+
+### From WebSearch — Lever (2026-04-19)
+
+- [ ] https://jobs.lever.co/oowlish/cc244b37-28c1-47f8-abd4-ae42e6efe834 | Oowlish Technology | Senior Full Stack Engineer (React / Node / React Native)
+
+### From WebSearch — YC / Himalayas / Remotive / Naukri (2026-04-19)
+
+- [ ] https://www.workatastartup.com/jobs/73651 | Wanderlog (YC) | Full-Stack Software Engineer (TypeScript/React Native)
+- [ ] https://www.workatastartup.com/jobs/74533 | Wanderlog (YC) | Full-Stack Software Engineer — Canada
+- [ ] https://www.workatastartup.com/jobs/66031 | SuperKalam (YC) | Senior/Lead Backend Engineer (Fullstack)
+- [ ] https://himalayas.app/companies/cloudwalk/jobs/senior-mobile-engineer-flutter | CloudWalk | Senior Mobile Engineer (Flutter)
+- [ ] https://himalayas.app/companies/brillio/jobs/reactnative-lead-developer-r01564122 | Brillio | React Native Lead Developer
+- [ ] https://himalayas.app/companies/metova/jobs/full-stack-developer-ror-react-react-native | Metova | Full Stack Developer (React/React Native)
+- [ ] https://himalayas.app/companies/fliff/jobs/engineering-manager-react-native-2795651573 | Fliff | Engineering Manager - React Native
+- [ ] https://remotive.com/remote/jobs/software-development/lead-mobile-engineer-3964084 | MLabs | Lead Mobile Engineer
+- [ ] https://www.naukri.com/job-listings-senior-staff-engineer-mobile-developer-react-native-nagarro-software-pvt-ltd-remote-3-to-7-years-291025501434 | Nagarro | Senior Staff Engineer, Mobile Developer (React Native)
+
 ## Procesados
