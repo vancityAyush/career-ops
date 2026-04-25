@@ -348,4 +348,25 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://remotive.com/remote/jobs/software-dev/full-stack-developer-react-js-python-930567 | AJ Consulting | Full Stack Developer - React.js/Python
 - [ ] https://remotive.com/remote-jobs/software-dev/webflow-flutter-app-1622949 | CoWorkingMexico | Webflow / Flutter App
 
+### From Greenhouse APIs — 2026-04-25 scan
+
+- [ ] https://job-boards.greenhouse.io/postman/jobs/7703916003 | Postman | Senior Engineer (Fullstack, backend-heavy), Product Trust
+- [ ] https://job-boards.greenhouse.io/postman/jobs/7704063003 | Postman | Software Engineer (Fullstack, frontend-heavy), Product Trust
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7371916 | Intercom | Staff Product Engineer
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/6386430 | Intercom | Staff Product Engineer
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/6386429 | Intercom | Staff Product Engineer
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7393922 | Intercom | Staff Product Engineer, AI
+
+### From WebSearch — Ashby (2026-04-25)
+
+- [ ] https://jobs.ashbyhq.com/agility.io/a92d8f85-e318-492f-862a-3e81573c08f5 | Agility IO | Senior Full Stack Engineer (NestJS, Next.js, PostgreSQL)
+- [ ] https://jobs.ashbyhq.com/vanta/e54ab450-192f-40f3-8029-37a44f2c09b1 | Vanta | Senior Fullstack Engineer, Emerging Products & Product Platform
+
+### From WebSearch — Greenhouse / Wellfound / WeWorkRemotely / Cutshort (2026-04-25)
+
+- [ ] https://job-boards.greenhouse.io/embrace/jobs/5810576004 | Embrace | Android SDK Engineer
+- [ ] https://wellfound.com/jobs/2042818-flutter-developer | Lepaya | Flutter Developer
+- [ ] https://weworkremotely.com/remote-jobs/veriff-senior-software-engineer-product-platform | Veriff | Senior Software Engineer (Product Platform)
+- [ ] https://cutshort.io/job/Flutter-Mobile-Developer-Hyderabad-Zobaze-technologies-854HenYg | Zobaze | Flutter Mobile Developer
+
 ## Procesados
