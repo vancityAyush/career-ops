@@ -369,4 +369,23 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://weworkremotely.com/remote-jobs/veriff-senior-software-engineer-product-platform | Veriff | Senior Software Engineer (Product Platform)
 - [ ] https://cutshort.io/job/Flutter-Mobile-Developer-Hyderabad-Zobaze-technologies-854HenYg | Zobaze | Flutter Mobile Developer
 
+### From Greenhouse APIs — 2026-04-28 scan
+
+- [ ] https://job-boards.greenhouse.io/postman/jobs/7715478003 | Postman | Senior Fullstack Software Engineer
+
+### From WebSearch — Ashby (2026-04-28)
+
+- [ ] https://jobs.ashbyhq.com/raylu-ai/2b607c2b-ba05-41ab-bfd9-2661da3824d7 | Raylu AI | Senior Full Stack Engineer
+- [ ] https://jobs.ashbyhq.com/helpscout/b917ffb5-425d-44cf-9321-651a81c5ecba | Help Scout | Sr. Java/Kotlin Engineer - Search
+
+### From WebSearch — Wellfound / YC / Naukri / Instahyre / Cutshort / Remotive (2026-04-28)
+
+- [ ] https://wellfound.com/jobs/3135726-full-stack-developer-react-next-js-node-js-mongodb | Slated.ai | Full Stack Developer (React, Next.js, Node.js, MongoDB)
+- [ ] https://wellfound.com/jobs/3347460-senior-full-stack-developer-node-js-typescript-vue-react-next-js | (unknown) | Senior Full Stack Developer (Node.js, Typescript, Vue, React, Next.js)
+- [ ] https://www.workatastartup.com/jobs/65832 | Great Question (YC) | Full Stack Engineer (Rails + React)
+- [ ] https://www.naukri.com/job-listings-senior-flutter-developer-uplers-bengaluru-3-to-6-years-191125012602 | Uplers | Senior Flutter Developer (Bengaluru)
+- [ ] https://www.instahyre.com/job-207598-senior-flutter-developer-at-open-financial-technologies-bangalore/ | Open Financial Technologies | Senior Flutter Developer (Bengaluru)
+- [ ] https://cutshort.io/job/Senior-React-Developer-India-Qrata-iwcsUKa4 | Qrata | Senior React Developer
+- [ ] https://remotive.com/remote/jobs/software-development/mobile-developer-4472863 | Remote World | Mobile Developer
+
 ## Procesados
