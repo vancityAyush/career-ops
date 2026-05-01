@@ -388,4 +388,18 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://cutshort.io/job/Senior-React-Developer-India-Qrata-iwcsUKa4 | Qrata | Senior React Developer
 - [ ] https://remotive.com/remote/jobs/software-development/mobile-developer-4472863 | Remote World | Mobile Developer
 
+### From Greenhouse APIs — 2026-05-01 scan
+
+- [ ] https://careers.duolingo.com/jobs/8457170002 | Duolingo | Senior Software Engineer, Backend
+- [ ] https://boards.greenhouse.io/descript/jobs/7716322003 | Descript | Senior Frontend Engineer, Marketing Web
+
+### From WebSearch — Ashby / Greenhouse / Lever / Instahyre (2026-05-01)
+
+- [ ] https://jobs.ashbyhq.com/jump-app/e7d984af-7289-47ad-9055-862a4d31f67f | Jump | Senior Android Engineer, Global Contractor
+- [ ] https://job-boards.greenhouse.io/hs/jobs/7767283 | Headspace | Senior Software Engineer, Flutter
+- [ ] https://job-boards.greenhouse.io/seamlessai/jobs/5635504004 | Seamless | Senior Growth Full-Stack Engineer
+- [ ] https://job-boards.greenhouse.io/propel/jobs/4371594002 | Propel | Senior Full Stack Engineer
+- [ ] https://jobs.lever.co/jobgether/7681e3b4-c88c-4d03-abce-9de29bd30a97 | Jobgether | Sr. React Native Developer - Remote
+- [ ] https://www.instahyre.com/job-345216-senior-engineer-flutter-android-at-tamara-work-from-home/ | Tamara | Senior Engineer - Flutter / Android
+
 ## Procesados
