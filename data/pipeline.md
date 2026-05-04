@@ -402,4 +402,9 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://jobs.lever.co/jobgether/7681e3b4-c88c-4d03-abce-9de29bd30a97 | Jobgether | Sr. React Native Developer - Remote
 - [ ] https://www.instahyre.com/job-345216-senior-engineer-flutter-android-at-tamara-work-from-home/ | Tamara | Senior Engineer - Flutter / Android
 
+### From WebSearch — Ashby / Naukri (2026-05-04)
+
+- [ ] https://jobs.ashbyhq.com/close/8b67d1fa-5852-4f7d-b8c2-cedc20b16da7 | Close | Senior Software Engineer - Frontend/React (100% Remote)
+- [ ] https://www.naukri.com/job-listings-senior-react-native-developer-rapinno-tech-solutions-hyderabad-5-to-10-years-310326032317 | Rapinno Tech Solutions | Senior React Native Developer (Hyderabad)
+
 ## Procesados
