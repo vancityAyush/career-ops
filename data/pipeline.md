@@ -407,4 +407,15 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://jobs.ashbyhq.com/close/8b67d1fa-5852-4f7d-b8c2-cedc20b16da7 | Close | Senior Software Engineer - Frontend/React (100% Remote)
 - [ ] https://www.naukri.com/job-listings-senior-react-native-developer-rapinno-tech-solutions-hyderabad-5-to-10-years-310326032317 | Rapinno Tech Solutions | Senior React Native Developer (Hyderabad)
 
+### From Greenhouse APIs — 2026-05-07 scan
+
+- [ ] https://job-boards.greenhouse.io/postman/jobs/7724253003 | Postman | Senior Engineer Frontend, Monetization
+- [ ] https://job-boards.greenhouse.io/inmobi/jobs/7548045 | InMobi | SDE III Gen AI
+
+### From WebSearch — Greenhouse / Lever / WeWorkRemotely (2026-05-07)
+
+- [ ] https://job-boards.greenhouse.io/serhant/jobs/4121505009 | Serhant | Senior Full Stack Engineer
+- [ ] https://jobs.lever.co/smart-working-solutions/808ff6ea-db73-44dd-9edd-46d8fc4d6aaa | Smart Working Solutions | Senior Full Stack Developer (React Native + React)
+- [ ] https://weworkremotely.com/remote-jobs/proxify-ab-senior-flutter-developer-4 | Proxify AB | Senior Flutter Developer
+
 ## Procesados
