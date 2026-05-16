@@ -418,4 +418,36 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://jobs.lever.co/smart-working-solutions/808ff6ea-db73-44dd-9edd-46d8fc4d6aaa | Smart Working Solutions | Senior Full Stack Developer (React Native + React)
 - [ ] https://weworkremotely.com/remote-jobs/proxify-ab-senior-flutter-developer-4 | Proxify AB | Senior Flutter Developer
 
+### From Greenhouse APIs — 2026-05-16 scan
+
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5993753004 | Vercel | Software Engineer, Next.js
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7925313 | Intercom | Senior Product Engineer - Pricing & Packaging
+
+### From WebSearch — Greenhouse non-API (2026-05-16)
+
+- [ ] https://job-boards.greenhouse.io/lumimeds/jobs/4205631009 | LumiMeds | Senior Full-Stack Engineer (Node.js & Next.js, AI-Native) - Remote
+- [ ] https://job-boards.greenhouse.io/rithumliboard/jobs/7774208 | Rithum | Senior Fullstack Software Engineer - JavaScript / TypeScript
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/6670448 | Reddit | Senior Android Engineer, Chat
+- [ ] https://job-boards.greenhouse.io/coderoad/jobs/4187502009 | CodeRoad | Senior React Native Developer
+- [ ] https://job-boards.greenhouse.io/interviewkickstart/jobs/4017236009 | Interview Kickstart | Senior Software Engineer - React Native
+- [ ] https://job-boards.greenhouse.io/straightarrownews/jobs/4240386009 | Straight Arrow News | Senior Software Engineer (React Native)
+- [ ] https://job-boards.greenhouse.io/straightarrownews/jobs/4017454009 | Straight Arrow News | Senior Software Engineer (React Native)
+- [ ] https://job-boards.greenhouse.io/earnin/jobs/7182039 | EarnIn | Senior Mobile Engineer (Android)
+- [ ] https://job-boards.greenhouse.io/trivelta/jobs/4071479009 | Trivelta | Senior Software Engineer - React Native / Mobile
+- [ ] https://job-boards.greenhouse.io/everdriven/jobs/4993771008 | EverDriven | Senior Software Engineer, Mobile (React Native)
+- [ ] https://job-boards.greenhouse.io/beaconbiosignals/jobs/4005461009 | Beacon Biosignals | Senior Mobile App Engineer (React Native/iOS/Android)
+
+### From WebSearch — Ashby / Lever / Remotive / India (2026-05-16)
+
+- [ ] https://jobs.ashbyhq.com/masabi/4028926e-772a-4beb-b98b-64c2a6802b3c | Masabi | Senior Kotlin Developer (remote)
+- [ ] https://jobs.lever.co/smart-working-solutions/dcaf609c-8de0-4969-9222-8aa396529e5d | Smart Working Solutions | Full-Stack Engineer (React / React Native)
+- [ ] https://jobs.lever.co/smart-working-solutions/556f616b-4a5b-4fcf-9b42-d178b2ffc2de | Smart Working Solutions | Software Engineer (Clojure / React Native)
+- [ ] https://jobs.lever.co/peerspace/a5e3d0bb-9915-4ec8-b326-87961d72473c | Peerspace | Senior Mobile Engineer (React Native)
+- [ ] https://jobs.lever.co/jobgether/664d5e47-8987-4c23-9032-d0a978b3962f | Jobgether | React Native Platform Engineer (Remote from US)
+- [ ] https://remotive.com/remote/jobs/software-development/mobile-developer-3818417 | TechState | Mobile Developer
+- [ ] https://www.instahyre.com/job-142136-senior-software-engineer-at-buystars-work-from-home/ | BuyStars | Senior Software Engineer (Flutter / Android / React Native)
+- [ ] https://www.instahyre.com/job-90179-sr-mobile-engineer-flutter-react-native-at-qoohoo-bangalore/ | Qoohoo | Sr. Mobile Engineer Flutter / React-Native (Bengaluru)
+- [ ] https://cutshort.io/job/React-Native-Developer-Michael-Page-MjzoY204 | Michael Page | React Native Developer
+- [ ] https://cutshort.io/job/Senior-Flutter-Developer-Noida-WTF-44aTBXgO | WTF | Senior Flutter Developer (Noida)
+
 ## Procesados
