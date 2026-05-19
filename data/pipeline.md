@@ -450,4 +450,30 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://cutshort.io/job/React-Native-Developer-Michael-Page-MjzoY204 | Michael Page | React Native Developer
 - [ ] https://cutshort.io/job/Senior-Flutter-Developer-Noida-WTF-44aTBXgO | WTF | Senior Flutter Developer (Noida)
 
+### From Greenhouse APIs — 2026-05-19 scan
+
+- [ ] https://job-boards.greenhouse.io/postman/jobs/7539839003 | Postman | Senior Software Engineer, Postman Insights
+
+### From WebSearch — Ashby (2026-05-19)
+
+- [ ] https://jobs.ashbyhq.com/silver/9a791039-5690-4c4f-a08f-3d6c363605f0 | Silver.dev | React Native Engineer (The Mobile-First Company)
+- [ ] https://jobs.ashbyhq.com/masabi/316ff804-7176-42b6-bdbb-4d8d419d61ca | Masabi | Senior Kotlin Developer (Remote)
+
+### From WebSearch — Greenhouse (2026-05-19)
+
+- [ ] https://job-boards.greenhouse.io/topsteptrader/jobs/7701743003 | Topstep | Senior Fullstack Engineer (Payments)
+- [ ] https://job-boards.greenhouse.io/jetbrains/jobs/4769561101 | JetBrains | Senior Full-Stack Kotlin Engineer (Kineto)
+
+### From WebSearch — Lever (2026-05-19)
+
+- [ ] https://jobs.lever.co/jobgether/5e7c57ac-da38-42b2-80c3-494859d998fb | Jobgether | Senior Software Development Engineer - Full Stack
+- [ ] https://jobs.lever.co/jobgether/8129e820-8a85-40e1-96b3-5d1c8cf9f757 | Jobgether | React Native Developer (Remote)
+
+### From WebSearch — WeWorkRemotely / Wellfound / Instahyre / Cutshort (2026-05-19)
+
+- [ ] https://weworkremotely.com/remote-jobs/evolute-cx-gmbh-full-stack-developer-react-native-node-js-typescript-upper-mid | Evolute CX GmbH | Full-Stack Developer (React Native / Node.js / TypeScript)
+- [ ] https://wellfound.com/jobs/1971595-senior-full-stack-engineer-web-mobile | Brain.fm | Senior Full-Stack Engineer – Web/Mobile
+- [ ] https://www.instahyre.com/job-158371-senior-engineer-react-native-at-experion-technologies-trivandrum/ | Experion Technologies | Senior Engineer - React Native
+- [ ] https://cutshort.io/job/Senior-Android-Developer-Mumbai-MyGlamm-rpW135cp | MyGlamm | Senior Android Developer
+
 ## Procesados
