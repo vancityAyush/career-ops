@@ -476,4 +476,27 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://www.instahyre.com/job-158371-senior-engineer-react-native-at-experion-technologies-trivandrum/ | Experion Technologies | Senior Engineer - React Native
 - [ ] https://cutshort.io/job/Senior-Android-Developer-Mumbai-MyGlamm-rpW135cp | MyGlamm | Senior Android Developer
 
+### From Greenhouse APIs — 2026-05-22 scan
+
+- [ ] https://job-boards.greenhouse.io/inmobi/jobs/7912774 | InMobi | SDE III - Backend
+
+### From WebSearch — Greenhouse non-API (2026-05-22)
+
+- [ ] https://job-boards.greenhouse.io/northbeam/jobs/4558061006 | Northbeam | Senior Fullstack Engineer (TypeScript)
+
+### From WebSearch — Lever (2026-05-22)
+
+- [ ] https://jobs.lever.co/court-avenue/e44abbea-2fcf-45c6-ad7d-2479982a634b | CourtAvenue | Senior Full-Stack Software Engineer (Flutter / React Native)
+
+### From WebSearch — YC / WeWorkRemotely / Cutshort (2026-05-22)
+
+- [ ] https://www.workatastartup.com/jobs/37323 | Openbase (YC) | Full Stack Engineer
+- [ ] https://weworkremotely.com/remote-jobs/lemon-io-senior-full-stack-developer-8 | Lemon.io | Senior Full-stack Developer
+- [ ] https://weworkremotely.com/remote-jobs/remotelock-react-native-mobile-and-web-senior-engineer | RemoteLock | React Native / Mobile and Web Senior Engineer
+- [ ] https://weworkremotely.com/remote-jobs/linear-full-stack-engineer | Linear | Full Stack Engineer
+- [ ] https://weworkremotely.com/remote-jobs/entermotion-mobile-developer-react-native | Entermotion | Mobile Developer (React Native)
+- [ ] https://cutshort.io/job/React-Native-MERN-Full-Stack-Developer-Bhopal-Ajjas-EKkeWbR3 | Ajjas | React Native & MERN Full Stack Developer
+- [ ] https://cutshort.io/job/React-Native-Developer-Delhi-Noida-Ghaziabad-Faridabad-Aquad-Software-Solution-Pvt-Ltd-jRypTwsg | Aquad Software Solution | React Native Developer
+- [ ] https://cutshort.io/job/Flutter-Developer-Mohali-610-Web-Lab-qluNE6N1 | 610 Web Lab | Flutter Developer
+
 ## Procesados
