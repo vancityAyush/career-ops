@@ -499,4 +499,27 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://cutshort.io/job/React-Native-Developer-Delhi-Noida-Ghaziabad-Faridabad-Aquad-Software-Solution-Pvt-Ltd-jRypTwsg | Aquad Software Solution | React Native Developer
 - [ ] https://cutshort.io/job/Flutter-Developer-Mohali-610-Web-Lab-qluNE6N1 | 610 Web Lab | Flutter Developer
 
+### From WebSearch — Ashby (2026-05-25)
+
+- [ ] https://jobs.ashbyhq.com/eli/3e7ea8e6-b77c-481b-9ab0-1b415ee5d37b | Eli Health | Senior Full-Stack Developer (React Native)
+- [ ] https://jobs.ashbyhq.com/somethings/f1553f39-89bd-446a-aae5-1c358df06775 | Somethings | Senior Full Stack Software Engineer - React Native
+- [ ] https://jobs.ashbyhq.com/aphex/bd222d16-2c49-482d-a8ca-e60ec5d2ad62 | Aphex | Senior Full Stack Developer (TypeScript/React)
+- [ ] https://jobs.ashbyhq.com/acquird/86cc022a-3cd7-4f08-9a9e-57145cc1a2f9 | Acquird.io | Senior Full Stack Engineer (React, Python)
+- [ ] https://jobs.ashbyhq.com/syndica/c0263c11-512c-450b-ac37-3959a6e9063d | Syndica | Senior React Native Engineer
+
+### From WebSearch — Greenhouse non-API (2026-05-25)
+
+- [ ] https://job-boards.greenhouse.io/degreed/jobs/5431938004 | Degreed | Flutter Engineering - Mobile (Bengaluru, India)
+- [ ] https://job-boards.greenhouse.io/fluxon/jobs/4607390005 | Fluxon | Senior Frontend Engineer
+- [ ] https://job-boards.greenhouse.io/invertase/jobs/4580103101 | Invertase | Senior Product Engineer - Dart & Flutter Products
+- [ ] https://job-boards.greenhouse.io/tide/jobs/6613051003 | Tide | Senior Engineer, Flutter (India)
+- [ ] https://job-boards.greenhouse.io/mejuri/jobs/4597266006 | Mejuri | Senior React Native Developer
+
+### From WebSearch — Wellfound / Remotive / Cutshort (2026-05-25)
+
+- [ ] https://wellfound.com/jobs/2878512-senior-flutter-engineer | EaseOps | Senior Flutter Engineer (India)
+- [ ] https://remotive.com/remote/jobs/software-development/mobile-engineer-react-native-4725354 | Atomic HR | Mobile Engineer (React Native)
+- [ ] https://remotive.com/remote/jobs/software-development/senior-react-native-developer-4560749 | Ruby Labs | Senior React Native Developer
+- [ ] https://cutshort.io/job/React-Fullstack-developer-React-Node-Typescript-Devenir-ieJMAHhA | Virtusa/Devenir | React Fullstack developer (React+Node+Typescript)
+
 ## Procesados
