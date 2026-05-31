@@ -522,4 +522,46 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://remotive.com/remote/jobs/software-development/senior-react-native-developer-4560749 | Ruby Labs | Senior React Native Developer
 - [ ] https://cutshort.io/job/React-Fullstack-developer-React-Node-Typescript-Devenir-ieJMAHhA | Virtusa/Devenir | React Fullstack developer (React+Node+Typescript)
 
+### From Greenhouse APIs — 2026-05-31 scan
+
+- [ ] https://boards.greenhouse.io/figma/jobs/6002655004 | Figma | Software Engineer (Dublin, Ireland)
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/6386428 | Intercom | Senior Product Engineer
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7393955 | Intercom | Staff Product Engineer, AI
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7393950 | Intercom | Staff Product Engineer, AI
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7383963 | Intercom | Staff Product Engineer, AI
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7735830 | Intercom | Staff Product Engineer - Growth
+
+### From WebSearch — Ashby (2026-05-31)
+
+- [ ] https://jobs.ashbyhq.com/ostium/2b849eb1-c0e8-4907-946b-e6274311a316 | Ostium Labs | Mobile Engineer (Flutter)
+
+### From WebSearch — Greenhouse non-API (2026-05-31)
+
+- [ ] https://job-boards.greenhouse.io/bloomreach/jobs/7142435 | Bloomreach | Senior Software Engineer, Mobile SDK (Flutter / React Native)
+- [ ] https://job-boards.greenhouse.io/rithum/jobs/7493873 | Rithum | Senior Fullstack Software Engineer - JavaScript / TypeScript
+- [ ] https://job-boards.greenhouse.io/rithumliboard/jobs/7496268 | Rithum | Senior Fullstack Software Engineer - JavaScript / TypeScript (LinkedIn)
+
+### From WebSearch — Lever (2026-05-31)
+
+- [ ] https://jobs.lever.co/applike/48a4c8c8-1122-407a-87f3-21cf91dd3514 | applike group | Mobile Software Engineer (SDK)
+
+### From WebSearch — YC (2026-05-31)
+
+- [ ] https://www.workatastartup.com/jobs/74755 | Memfault (YC) | Full Stack Engineer - TypeScript/Python
+- [ ] https://www.workatastartup.com/jobs/74022 | Misprint (YC) | Founding Engineer #1 (React Native / Next.js)
+- [ ] https://www.workatastartup.com/jobs/78897 | AiPrise (YC) | Full Stack Engineer (The Fixer)
+- [ ] https://www.workatastartup.com/jobs/71773 | Tiptap (YC) | Full Stack Engineer
+- [ ] https://www.workatastartup.com/jobs/44310 | Jiga (YC) | Full Stack Engineer
+- [ ] https://www.workatastartup.com/jobs/46480 | FlowEQ (YC) | Full Stack Engineer
+- [ ] https://www.workatastartup.com/jobs/48288 | Lofty AI (YC) | Senior React Fullstack Engineer
+
+### From WebSearch — Naukri / Instahyre / Cutshort / WeWorkRemotely (2026-05-31)
+
+- [ ] https://www.naukri.com/job-listings-flutter-developer-razorthink-bengaluru-3-to-6-years-161225910378 | Razorthink | Flutter Developer (Bengaluru)
+- [ ] https://www.instahyre.com/job-303640-senior-fullstack-engineer-react-node-js-at-digit88-technologies-pune/ | Digit88 Technologies | Senior Fullstack Engineer (React / Node.js) — Pune
+- [ ] https://www.instahyre.com/job-359151-senior-fullstack-developer-react-native-at-wealthbeacon-bangalore/ | WealthBeacon.ai | Senior Fullstack Developer - React Native (Bengaluru)
+- [ ] https://cutshort.io/job/Flutter-Developer-iOS-Android-NCR-Delhi-Gurgaon-Noida-Unnati-MNhkd3LD | Unnati | Flutter Developer - iOS/Android (Delhi NCR)
+- [ ] https://weworkremotely.com/remote-jobs/boon-senior-react-native-developer-mobile-dev | Boon | Senior React Native Developer (Mobile Dev)
+- [ ] https://weworkremotely.com/remote-jobs/master-works-full-stack-developer-react-node-js | Master-works | Full-stack Developer (React & Node.js)
+
 ## Procesados
