@@ -564,4 +564,38 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://weworkremotely.com/remote-jobs/boon-senior-react-native-developer-mobile-dev | Boon | Senior React Native Developer (Mobile Dev)
 - [ ] https://weworkremotely.com/remote-jobs/master-works-full-stack-developer-react-node-js | Master-works | Full-stack Developer (React & Node.js)
 
+### From Greenhouse APIs — 2026-06-01 scan
+
+(No new qualifying roles found — all Postman, InMobi, Figma, Vercel, Duolingo, Descript, Intercom jobs either already in pipeline or skipped by title filter. Razorpay, Dream11, Freshworks, Chargebee, Shopify, Atlassian APIs returned 404.)
+
+### From WebSearch — Ashby (2026-06-01)
+
+- [ ] https://jobs.ashbyhq.com/sekai/a254fef6-ad7a-4cf4-853d-79b207259f18 | Sekai | Mobile Engineer — React Native
+- [ ] https://jobs.ashbyhq.com/distro-llc/a2a11c14-86ad-443b-9aa4-febcbb05ac7c | Distro LLC | Full Stack React/Node.js Developer
+
+### From WebSearch — Greenhouse non-API (2026-06-01)
+
+- [ ] https://job-boards.greenhouse.io/rithum/jobs/7544838 | Rithum | Senior Fullstack Software Engineer - JavaScript / TypeScript
+- [ ] https://job-boards.greenhouse.io/life360/jobs/8079304002 | Life360 | Senior Android Engineer, Experiences Mobile
+
+### From WebSearch — Lever (2026-06-01)
+
+- [ ] https://jobs.lever.co/jobgether/097a378b-99dd-44f8-9041-bb8fda041d3e | Jobgether | Remote Software Engineer (Full-Stack / Mobile)
+
+### From WebSearch — Wellfound / YC / India / Remote (2026-06-01)
+
+- [ ] https://www.workatastartup.com/jobs/84710 | MixRank (YC) | Full-Stack Developer - Remote
+- [ ] https://www.workatastartup.com/jobs/77015 | Wolfia (YC) | Software Engineer (Full-Stack, AI-Native)
+- [ ] https://www.workatastartup.com/jobs/74335 | Stamp (YC) | Founding Engineer
+- [ ] https://cutshort.io/job/Senior-React-Native-Developer-Pune-Hyderabad-Envisionard-tPGsr3ja | Envisionard | Senior React Native Developer
+- [ ] https://cutshort.io/job/Senior-Software-Developer-Engineer-Full-stack-Pune-StarApps-Studio-xTgPND4h | StarApps Studio | Senior Software Developer Engineer (Full-stack)
+- [ ] https://cutshort.io/job/Senior-React-Native-Developer-Mumbai-WONDRx-Hl6boWye | WONDRx | Senior React Native Developer
+- [ ] https://weworkremotely.com/remote-jobs/locally-full-stack-engineer | Locally | Full-Stack Engineer
+- [ ] https://weworkremotely.com/remote-jobs/companycam-senior-software-engineer-react-react-native | CompanyCam | Senior Software Engineer (React/React Native)
+- [ ] https://weworkremotely.com/listings/evolute-cx-gmbh-senior-full-stack-developer-react-native-node-js-typescript | Evolute CX GmbH | Senior Full-Stack Developer (React Native / Node.js / TypeScript)
+- [ ] https://himalayas.app/companies/appevolve/jobs/sr-react-native-developer-full-wfh | AppEvolve | Sr. React Native Developer (Full WFH)
+- [ ] https://remotive.com/remote/jobs/software-development/full-stack-developer-4145340 | MVST | Full Stack Developer
+- [ ] https://remotive.com/remote/jobs/software-development/senior-react-native-engineer-team-lead-patient-squad-4305466 | Caspar Health | Senior React Native Engineer & Team Lead
+- [ ] https://remotive.com/remote/jobs/software-development/senior-fullstack-engineer-4141418 | Feeld | Senior Fullstack Engineer
+
 ## Procesados
