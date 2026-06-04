@@ -598,4 +598,37 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://remotive.com/remote/jobs/software-development/senior-react-native-engineer-team-lead-patient-squad-4305466 | Caspar Health | Senior React Native Engineer & Team Lead
 - [ ] https://remotive.com/remote/jobs/software-development/senior-fullstack-engineer-4141418 | Feeld | Senior Fullstack Engineer
 
+### From Greenhouse APIs — 2026-06-04 scan
+
+- [ ] https://job-boards.greenhouse.io/inmobi/jobs/7790061 | InMobi | SDE II - Senior Software Engineer
+
+### From WebSearch — Ashby (2026-06-04)
+
+- [ ] https://jobs.ashbyhq.com/mobilefirst/e00778da-159c-49f2-8c78-9e4b9cf1425e | The Mobile-First Company | Senior React Native Engineer
+- [ ] https://jobs.ashbyhq.com/campus/68370ad5-3e9e-4438-8233-64d461f1b8d4 | Campus | Senior Mobile Engineer - React Native
+- [ ] https://jobs.ashbyhq.com/montu-uk/b85bfbe1-9a69-4038-8ccf-d92b98b44813 | Montu UK | Senior Full Stack Engineer (Backend)
+- [ ] https://jobs.ashbyhq.com/novellia/b340dbe7-f6d4-49ec-94d1-b602a9939101 | Novellia | Senior Fullstack Software Engineer
+
+### From WebSearch — Greenhouse (2026-06-04)
+
+- [ ] https://job-boards.greenhouse.io/canonicaljobs/jobs/7131511 | Canonical | Web Frontend Engineer - JS, CSS, React, Flutter
+- [ ] https://job-boards.greenhouse.io/momence/jobs/4538359005 | Momence | Mobile Engineer (React Native)
+- [ ] https://job-boards.greenhouse.io/rootstrap/jobs/4683226008 | Rootstrap | Ssr Flutter Developer
+- [ ] https://job-boards.greenhouse.io/usenourish/jobs/5011452008 | Nourish | Senior Full Stack Engineer
+- [ ] https://job-boards.greenhouse.io/able/jobs/8390834002 | Able | Senior Software Engineer (Full-Stack)
+
+### From WebSearch — Lever / Wellfound / India / Remote (2026-06-04)
+
+- [ ] https://jobs.lever.co/oowlish/b3850218-29eb-4753-9f5b-d06e4e8dbf3a | Oowlish Technology | Senior Mobile Engineer (React Native & TypeScript)
+- [ ] https://jobs.lever.co/oowlish/62a3cf11-8174-4787-8688-6ce9aa17be48 | Oowlish Technology | Senior Full Stack Engineer (React / Next.js / React Native)
+- [ ] https://jobs.lever.co/smart-working-solutions/75c35c7a-4354-434b-897a-f8b6fcab40f1 | Smart Working Solutions | Senior Full Stack Engineer (React, Typescript, Node.js)
+- [ ] https://wellfound.com/jobs/1889517-sr-lead-full-stack-developer-to-help-millions-across-the-country-100-remote | Softrams | Sr.-Lead Full Stack Developer (100% Remote)
+- [ ] https://wellfound.com/jobs/3139084-fullstack-developer | AllVoices | Fullstack Developer
+- [ ] https://www.workatastartup.com/jobs/73410 | Helpcare AI (YC) | Senior Fullstack Engineer
+- [ ] https://www.workatastartup.com/jobs/87527 | Blissway (YC) | Software Engineer (React Native / Node.js)
+- [ ] https://www.instahyre.com/job-119673-senior-react-native-developer-at-avegen-pune/ | Avegen | Senior React Native Developer (Pune)
+- [ ] https://www.instahyre.com/job-111963-senior-software-engineer-android-at-nurture-bangalore/ | nurture.farm | Senior Software Engineer - Android (Bengaluru)
+- [ ] https://remotive.com/remote/jobs/software-development/senior-full-stack-engineer-4498903 | Coding Partners | Senior Full Stack Engineer
+- [ ] https://remotive.com/remote/jobs/software-development/senior-full-stack-engineer-react-node-js-4457901 | Encora | Senior Full Stack Engineer - React & Node.js
+
 ## Procesados
