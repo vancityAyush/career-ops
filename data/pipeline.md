@@ -631,4 +631,67 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://remotive.com/remote/jobs/software-development/senior-full-stack-engineer-4498903 | Coding Partners | Senior Full Stack Engineer
 - [ ] https://remotive.com/remote/jobs/software-development/senior-full-stack-engineer-react-node-js-4457901 | Encora | Senior Full Stack Engineer - React & Node.js
 
+### From Greenhouse APIs — 2026-06-10 scan
+
+- [ ] https://job-boards.greenhouse.io/postman/jobs/7767101003 | Postman | Senior Software Engineer - Fern
+- [ ] https://job-boards.greenhouse.io/postman/jobs/7767126003 | Postman | Staff Software Engineer - Fern
+- [ ] https://job-boards.greenhouse.io/inmobi/jobs/7956882 | InMobi | SDE 2
+- [ ] https://job-boards.greenhouse.io/inmobi/jobs/7744343 | InMobi | SDE II - Senior Engineer
+- [ ] https://careers.duolingo.com/jobs/8584012002 | Duolingo | Senior Software Engineer, Backend
+- [ ] https://careers.duolingo.com/jobs/8583977002 | Duolingo | Senior Software Engineer, Backend
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7982566 | Intercom | Forward Deployed Software Engineer
+
+### From WebSearch — Greenhouse non-API (2026-06-10)
+
+- [ ] https://job-boards.greenhouse.io/moovx/jobs/4507184005 | Moovx | Sr. Flutter Developer
+- [ ] https://job-boards.greenhouse.io/poppulo/jobs/6824055 | Poppulo | Senior Software Engineer - Full Stack
+- [ ] https://job-boards.greenhouse.io/topsteptrader/jobs/7737871003 | Topstep | Senior Fullstack Engineer - TypeScript
+- [ ] https://job-boards.greenhouse.io/nubank/jobs/7863752 | Nubank | Lead Mobile Software Engineer
+- [ ] https://job-boards.greenhouse.io/hs/jobs/6563643 | Headspace | Senior Flutter Engineer
+
+### From WebSearch — Ashby (2026-06-10)
+
+- [ ] https://jobs.ashbyhq.com/grai/cf2f899f-7f57-454d-a496-ec824d5e5fd3 | GRAI Inc. | Fullstack TypeScript Engineer (Contractor)
+- [ ] https://jobs.ashbyhq.com/agility.io/2320547b-218a-4730-8c43-b55a85819c6b | Agility IO | Senior Full Stack Developer
+- [ ] https://jobs.ashbyhq.com/astra/6664545a-652e-477e-be12-9a7e8d32f06b | Astra | Senior Fullstack Engineer
+- [ ] https://jobs.ashbyhq.com/forma/784e832f-2479-4a58-bde4-3e3ef01888ef | Forma | Senior Software Engineer (TypeScript/NestJS)
+
+### From WebSearch — Lever (2026-06-10)
+
+- [ ] https://jobs.lever.co/canarytechnologies/0494cddc-3bed-4ec6-8b79-6cfa24120e44 | Canary Technologies | Senior Mobile Engineer
+- [ ] https://jobs.lever.co/canarytechnologies/9a872e88-2268-4d3b-b027-679625bb03ad | Canary Technologies | Senior Mobile SDK Engineer
+- [ ] https://jobs.lever.co/bounteous/ebeea19d-351c-45d9-b368-262cea406a07 | Bounteous | Senior React Native Developer
+- [ ] https://jobs.lever.co/koombea/3d790171-bcfe-4912-aa76-2cf47ef46018 | Koombea | Senior React Native Developer
+- [ ] https://jobs.lever.co/jobgether/a7bdd951-d68a-4de2-a449-a67c0a073a7a | Jobgether | Senior Flutter Developer (Cupid Media)
+- [ ] https://jobs.lever.co/jobgether/b9b03c75-a671-4c2a-9b89-d4655364ce2a | Jobgether | Senior Mobile Engineer
+- [ ] https://jobs.lever.co/jobgether/74b6da1b-856c-489f-872a-50ffde39dd4a | Jobgether | Senior React Native Engineer
+- [ ] https://jobs.lever.co/happyco/daf2b693-7574-4264-87a9-17e57fc72bc8 | HappyCo | Senior Mobile Engineer (Flutter)
+- [ ] https://jobs.lever.co/oowlish/9a510c99-c644-49e7-ba3e-5ccd10bffd9a | Oowlish Technology | Senior Full Stack Engineer (React / Next.js / React Native)
+- [ ] https://jobs.lever.co/FlatironsDevelopment/e3eb1f9c-d1fe-4a2f-b44d-5672f516102c | Flatirons | Senior React Native / React Engineer
+- [ ] https://jobs.lever.co/jobgether/f30a6082-017a-43f2-9b0d-29625f89083e | Jobgether | Sr. Full Stack Developer
+
+### From WebSearch — WeWorkRemotely / Remotive / Himalayas (2026-06-10)
+
+- [ ] https://weworkremotely.com/remote-jobs/proxify-ab-senior-flutter-developer-2 | Proxify AB | Senior Flutter Developer
+- [ ] https://weworkremotely.com/remote-jobs/g2i-inc-senior-react-developer | G2i Inc. | Senior React Developer
+- [ ] https://weworkremotely.com/remote-jobs/float-senior-mobile-engineer-ios-and-android-1 | Float | Senior Mobile Engineer (iOS and Android)
+- [ ] https://weworkremotely.com/remote-jobs/trustworthy-senior-react-native-engineer-1 | Trustworthy | Senior React Native Engineer
+- [ ] https://weworkremotely.com/remote-jobs/axios-senior-react-native-engineer | Axios | Senior React Native Engineer
+- [ ] https://weworkremotely.com/remote-jobs/companycam-senior-mobile-developer | CompanyCam | Senior Mobile Developer
+- [ ] https://remotive.com/remote/jobs/software-development/senior-mobile-developer-4340227 | Teamified | Senior Mobile Developer
+- [ ] https://remotive.com/remote/jobs/software-development/senior-mobile-developer-4708449 | Abstra | Senior Mobile Developer
+- [ ] https://remotive.com/remote/jobs/software-development/senior-react-native-engineer-4457513 | Ciklum | Senior React Native Engineer
+- [ ] https://remotive.com/remote/jobs/software-development/senior-react-native-developer-4726914 | BrightOrder Inc. | Senior React Native Developer
+- [ ] https://himalayas.app/companies/valor-software/jobs/senior-flutter-developer-6257184329 | Valor Software | Senior Flutter Developer
+
+### From WebSearch — Instahyre / Cutshort (2026-06-10)
+
+- [ ] https://www.instahyre.com/job-297287-flutter-developer-at-havells-india-bangalore/ | Havells India | Flutter Developer
+- [ ] https://www.instahyre.com/job-366745-mobile-application-developer-android-ios-plus-flutter-at-bigbasket-bangalore/ | Bigbasket | Mobile Application Developer - Android/iOS+Flutter
+- [ ] https://www.instahyre.com/job-254006-flutter-developer-at-amazon-bangalore/ | Amazon | Flutter Developer
+- [ ] https://www.instahyre.com/job-90869-senior-mobile-app-developer-at-skylo-technologies-bangalore/ | Skylo Technologies | Senior Mobile App Developer
+- [ ] https://www.instahyre.com/job-335540-senior-flutter-developer-at-smartq-bangalore/ | SmartQ | Senior Flutter Developer
+- [ ] https://www.instahyre.com/job-422569-full-stack-engineer-at-snabbit-bangalore/ | Snabbit | Full Stack Engineer
+- [ ] https://cutshort.io/job/Senior-Android-Engineer-NCR-Delhi-Gurgaon-Noida-Shuttl-ixc6BEX3 | Shuttl | Senior Android Engineer
+
 ## Procesados
