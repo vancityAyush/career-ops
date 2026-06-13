@@ -694,4 +694,21 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://www.instahyre.com/job-422569-full-stack-engineer-at-snabbit-bangalore/ | Snabbit | Full Stack Engineer
 - [ ] https://cutshort.io/job/Senior-Android-Engineer-NCR-Delhi-Gurgaon-Noida-Shuttl-ixc6BEX3 | Shuttl | Senior Android Engineer
 
+### From Greenhouse APIs — 2026-06-13 scan
+
+- [ ] https://job-boards.greenhouse.io/inmobi/jobs/7956875 | InMobi | SDE 3
+- [ ] https://job-boards.greenhouse.io/postman/jobs/7534301003 | Postman | Senior Engineer, Backend - Workspaces
+
+### From WebSearch — Ashby (2026-06-13)
+
+- [ ] https://jobs.ashbyhq.com/flutterflow/a45343e4-ba41-4a6d-817c-897cc9ecfdb5 | FlutterFlow | Software Engineer - Future Openings
+- [ ] https://jobs.ashbyhq.com/vanta/1513e1ac-5dca-4acb-a99d-8b5461115651 | Vanta | Senior Fullstack Software Engineer, GRC
+
+### From WebSearch — Greenhouse / Lever / Wellfound / HN (2026-06-13)
+
+- [ ] https://job-boards.greenhouse.io/contractorspool/jobs/7851462 | ArcTouch | Senior Android Engineer [Talent Pool - Contractor]
+- [ ] https://jobs.lever.co/Anovium/c55c1aa9-2bb0-4447-bd40-cdc616adb9c2 | Anovium | Senior Full Stack Javascript Node Backend Engineer (Remote)
+- [ ] https://wellfound.com/jobs/2840951-senior-full-stack-developer-for-saas-integrations | Left Hook | Senior Full Stack Developer for SaaS Integrations
+- [ ] https://news.ycombinator.com/item?id=45439712 | Smart 11 | React Native Software Engineer (Netherlands / Remote)
+
 ## Procesados
