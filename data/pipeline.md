@@ -711,4 +711,29 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://wellfound.com/jobs/2840951-senior-full-stack-developer-for-saas-integrations | Left Hook | Senior Full Stack Developer for SaaS Integrations
 - [ ] https://news.ycombinator.com/item?id=45439712 | Smart 11 | React Native Software Engineer (Netherlands / Remote)
 
+### From Greenhouse APIs — 2026-06-16 scan
+
+(No new qualifying roles found — Postman, InMobi, Figma, Vercel, Duolingo, Intercom, Descript all checked. Razorpay, Dream11, Freshworks, Chargebee, Shopify, Atlassian APIs returned 404.)
+
+### From WebSearch — Ashby (2026-06-16)
+
+- [ ] https://jobs.ashbyhq.com/pragmatike/fd7bd509-9bd1-4385-beaf-86fd036f8f61 | Pragmatike | Fullstack Software Engineer (TypeScript) - US Remote
+- [ ] https://jobs.ashbyhq.com/arq/20a064d7-b34b-4347-979d-5cb60f03274c | ARQ | Senior Android Engineer
+
+### From WebSearch — Greenhouse non-API (2026-06-16)
+
+- [ ] https://job-boards.greenhouse.io/eltropyinc/jobs/4113092009 | Eltropy Inc. | Mobile Developer (Remote)
+- [ ] https://job-boards.greenhouse.io/hyphenconnect/jobs/4746763007 | Hyphen Connect Limited | Frontend Mobile Developer (Flutter)
+- [ ] https://job-boards.greenhouse.io/elliemd/jobs/4193244009 | EllieMD | Full Stack Developer (EST, Remote)
+
+### From WebSearch — YC / Himalayas / WeWorkRemotely / Instahyre / Cutshort (2026-06-16)
+
+- [ ] https://www.workatastartup.com/jobs/67323 | Athelas (YC) | Full-Stack Software Engineer
+- [ ] https://himalayas.app/companies/softeta/jobs/react-native-engineer-6118478116 | Softeta | React Native Engineer
+- [ ] https://himalayas.app/companies/white-cloak-technologies/jobs/full-stack-android-developer-react-native-pooling | White Cloak Technologies | Full-Stack Android Developer - React Native
+- [ ] https://weworkremotely.com/remote-jobs/meo-health-sr-full-stack-software-engineer-react-native | Meo Health | Sr. Full Stack Software Engineer (React Native)
+- [ ] https://www.instahyre.com/job-92499-mobile-fullstack-developer-at-airspan-networks-bangalore/ | Airspan Networks | Mobile Fullstack Developer (Bengaluru)
+- [ ] https://www.instahyre.com/job-400874-sr-mobile-engineer-at-fleetpanda-bangalore/ | FleetPanda | Sr. Mobile Engineer (Bengaluru)
+- [ ] https://cutshort.io/job/Flutter-Indore-Volibits-G8mmECbq | Volibits | Senior React Native Developer (Indore)
+
 ## Procesados
