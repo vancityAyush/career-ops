@@ -736,4 +736,39 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://www.instahyre.com/job-400874-sr-mobile-engineer-at-fleetpanda-bangalore/ | FleetPanda | Sr. Mobile Engineer (Bengaluru)
 - [ ] https://cutshort.io/job/Flutter-Indore-Volibits-G8mmECbq | Volibits | Senior React Native Developer (Indore)
 
+### From Greenhouse APIs — 2026-06-19 scan
+
+- [ ] https://job-boards.greenhouse.io/postman/jobs/7778449003 | Postman | Staff Software Engineer
+- [ ] https://boards.greenhouse.io/figma/jobs/6073106004 | Figma | Software Engineer - Figma Weave (Tel Aviv, Israel)
+
+### From WebSearch — Ashby (2026-06-19)
+
+- [ ] https://jobs.ashbyhq.com/opus-training/2f9686e5-fc48-4d57-9140-d8399ab52c52 | Opus Training | Senior Software Engineer, Mobile (React Native)
+- [ ] https://jobs.ashbyhq.com/curri/18588740-4f80-4a40-b3c0-fed97517a3c4 | Curri | Senior Software Engineer
+- [ ] https://jobs.ashbyhq.com/partyhat/2f1acb3f-3a05-4ae4-9924-f343db35db3e | Partyhat | Senior Software Engineer
+- [ ] https://jobs.ashbyhq.com/pragmatike/4d7a1af0-d7ff-478b-9648-c47ab00f01a6 | Pragmatike | Fullstack Software Engineer (TypeScript) - Hybrid LA
+
+### From WebSearch — Greenhouse non-API (2026-06-19)
+
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/5150422 | Canonical | Web Frontend Engineer - JS, CSS, React, Flutter
+- [ ] https://job-boards.greenhouse.io/reltio/jobs/6002359004 | Reltio | Full Stack Developer - React Native
+- [ ] https://job-boards.greenhouse.io/techholding/jobs/4702800005 | Tech Holding | Full Stack Engineer (Contract) - Remote
+- [ ] https://job-boards.greenhouse.io/launchdarkly/jobs/7741981003 | LaunchDarkly | Full Stack Engineer, Experimentation
+- [ ] https://job-boards.greenhouse.io/infuse/jobs/4703482005 | INFUSE | Senior Fullstack/AI Engineer
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/6942242 | Reddit | Senior Android Engineer - Compliance Software Engineering
+- [ ] https://job-boards.greenhouse.io/mavenclinic/jobs/8371454002 | Maven Clinic | Senior Software Engineer, Android
+
+### From WebSearch — YC / Himalayas / Remotive / Cutshort (2026-06-19)
+
+- [ ] https://www.workatastartup.com/jobs/75472 | Athelas (YC) | Senior Flutter Engineer, Scribe
+- [ ] https://www.workatastartup.com/jobs/75492 | Athelas (YC) | Fullstack Engineer, Scribe
+- [ ] https://www.workatastartup.com/jobs/72002 | OneSignal (YC) | Senior Software Engineer, SDK
+- [ ] https://www.workatastartup.com/jobs/68126 | Ankr Health (YC) | Hybrid App Developer (React Native)
+- [ ] https://himalayas.app/companies/mindrift/jobs/freelance-mobile-app-developer-ios-android | Mindrift | Freelance Mobile App Developer (iOS / Android)
+- [ ] https://remotive.com/remote/jobs/software-development/full-stack-developer-m-f-d-react-next-js-or-angular-nest-js-node-js-4487740 | FastRocket GmbH | Full-Stack Developer (React/Next.js or Angular + Nest.js/Node.js)
+- [ ] https://remotive.com/remote/jobs/software-development/senior-backend-developer-nodejs-bonus-4432727 | CRMBonus | Senior Backend Developer NodeJS
+- [ ] https://remotive.com/remote/jobs/software-development/mobile-developer-4435864 | Attain | Mobile Developer
+- [ ] https://remotive.com/remote/jobs/software-development/engineering-manager-frontend-4145081 | Flutter Brazil | Engineering Manager, FrontEnd
+- [ ] https://cutshort.io/job/Senior-Fullstack-React-Node-APIs-Developer-Pune-ShoppinPal-8So5if4S | ShoppinPal | Senior Fullstack (React, Node, APIs) Developer
+
 ## Procesados
