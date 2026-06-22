@@ -771,4 +771,39 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://remotive.com/remote/jobs/software-development/engineering-manager-frontend-4145081 | Flutter Brazil | Engineering Manager, FrontEnd
 - [ ] https://cutshort.io/job/Senior-Fullstack-React-Node-APIs-Developer-Pune-ShoppinPal-8So5if4S | ShoppinPal | Senior Fullstack (React, Node, APIs) Developer
 
+### From Greenhouse APIs — 2026-06-22 scan
+
+- [ ] https://job-boards.greenhouse.io/postman/jobs/7776298003 | Postman | Software Engineer, Authorization
+- [ ] https://boards.greenhouse.io/figma/jobs/6098390004 | Figma | Software Engineer, eve
+
+### From WebSearch — Ashby (2026-06-22)
+
+- [ ] https://jobs.ashbyhq.com/futurefitai/df12191c-3c81-4750-9a17-4e6f94181599 | FutureFit AI | Software Engineer
+- [ ] https://jobs.ashbyhq.com/limbic/d17332e6-d8d2-4a91-a41d-7cff8a0a60c9 | Limbic | Senior Full-stack Engineer
+- [ ] https://jobs.ashbyhq.com/platformed/093fad63-2054-4f9a-889d-30707fa04eaa | Platformed | Senior Software Engineer
+- [ ] https://jobs.ashbyhq.com/ditto/65f522c2-efee-48aa-a094-cdf80576a272 | Ditto | Senior Software Engineer, Bluetooth
+- [ ] https://jobs.ashbyhq.com/cortea/f3a7eeaf-3bbd-4bc9-a69f-61d1d0603a89 | Cortea AI | Senior/Staff Fullstack Engineer
+- [ ] https://jobs.ashbyhq.com/saronic/aaf993ec-7263-4f03-8b3b-7c3bf200b7f2 | Saronic Technologies | Senior Full Stack Engineer
+- [ ] https://jobs.ashbyhq.com/n8n/6a370ff8-e069-48ed-bffa-5716a3dbd9d5 | n8n | Sr Growth Engineer (Fullstack TS/Vue/NodeJS)
+
+### From WebSearch — Greenhouse (2026-06-22)
+
+- [ ] https://job-boards.greenhouse.io/contractorspool/jobs/7857999 | ArcTouch | Senior Flutter Developer [Contractor - Talent Pool]
+- [ ] https://job-boards.greenhouse.io/calendly/jobs/8464846002 | Calendly | Senior Full Stack Engineer
+
+### From WebSearch — Lever (2026-06-22)
+
+- [ ] https://jobs.lever.co/dilitrust/994eaa97-98b4-463b-9cee-4d41730d9a2c | DiliTrust | Senior FullStack Software Engineer (Node.js / Vue.js)
+- [ ] https://jobs.lever.co/jobgether/42b545f8-c1a0-4c4a-bf9e-032e876fb1ec | Jobgether | Senior Frontend Developer (Core)
+- [ ] https://jobs.lever.co/distro/56ea19bb-f4c3-49cf-b2bb-c51cd3279307 | Distro | SR FULLSTACK DEVELOPER
+- [ ] https://jobs.lever.co/aircall/af07bec4-c92b-49f2-a2f0-079f43560cbf | Aircall | Senior Software Engineer
+
+### From WebSearch — Wellfound / Instahyre / WeWorkRemotely / Remotive (2026-06-22)
+
+- [ ] https://wellfound.com/jobs/3941026-software-engineer-product | Pallet | Software Engineer, Product
+- [ ] https://www.instahyre.com/job-406188-senior-sde-1-2-android-at-carrum-mobility-solutions-2-gurgaon/ | Carrum Mobility Solutions | Senior SDE - 1/2 - Android
+- [ ] https://www.instahyre.com/job-327203-founding-engineer-flutter-react-js-at-bitsave-work-from-home/ | BitSave | Founding Engineer (Flutter & React.js)
+- [ ] https://weworkremotely.com/remote-jobs/mobena-frontend-engineer | Mobena | Remote Frontend Engineer
+- [ ] https://remotive.com/remote/jobs/software-development/director-of-software-engineering-4515929 | SupplyHouse | Director of Software Engineering
+
 ## Procesados
