@@ -806,4 +806,27 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://weworkremotely.com/remote-jobs/mobena-frontend-engineer | Mobena | Remote Frontend Engineer
 - [ ] https://remotive.com/remote/jobs/software-development/director-of-software-engineering-4515929 | SupplyHouse | Director of Software Engineering
 
+### From Greenhouse API — 2026-06-25 scan
+
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6093255004 | Vercel | Security Software Engineer, IAM
+
+### From WebSearch — Ashby (2026-06-25)
+
+- [ ] https://jobs.ashbyhq.com/skelar/c9ddeba6-d1d8-44e5-ac92-e811c88cd195 | SKELAR | Frontend Engineer (React) - Growly
+- [ ] https://jobs.ashbyhq.com/assembledhq/81c159cf-ad96-46af-97a1-c08eb415dbfb | Assembled | Frontend Engineer
+
+### From WebSearch — Greenhouse (2026-06-25)
+
+- [ ] https://job-boards.greenhouse.io/sezzle/jobs/7618791003 | Sezzle | Mobile Engineer (Brazil)
+
+### From WebSearch — Lever (2026-06-25)
+
+- [ ] https://jobs.lever.co/handoff/e41dcba6-b1c5-4c39-996d-bf3ab443dc47 | Handoff | Senior Fullstack Engineer
+- [ ] https://jobs.lever.co/shyftlabs/9ce47432-29bc-42b8-9d08-012954c8e358 | ShyftLabs | Senior Software Engineer (Python and React Native)
+- [ ] https://jobs.lever.co/jobgether/93a16036-a989-441f-9994-588419c6873e | Jobgether | Senior Full Stack Engineer (Backend Focus)
+
+### From WebSearch — Himalayas (2026-06-25)
+
+- [ ] https://himalayas.app/companies/bizfirst/jobs/front-end-ui-ux-developer-u-s-coast-guard-remote | BizFirst | Front-End / UI/UX Developer - U.S. Coast Guard - Remote
+
 ## Procesados
