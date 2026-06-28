@@ -829,4 +829,62 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 
 - [ ] https://himalayas.app/companies/bizfirst/jobs/front-end-ui-ux-developer-u-s-coast-guard-remote | BizFirst | Front-End / UI/UX Developer - U.S. Coast Guard - Remote
 
+### From Greenhouse APIs — 2026-06-28 scan
+
+- [ ] https://job-boards.greenhouse.io/postman/jobs/7762145003 | Postman | Software Engineer, Fabric Gateway
+- [ ] https://boards.greenhouse.io/figma/jobs/6100023004 | Figma | Software Engineer, iOS
+- [ ] https://boards.greenhouse.io/figma/jobs/6102379004 | Figma | Software Engineer, Traffic
+
+### From WebSearch — Ashby (2026-06-28)
+
+- [ ] https://jobs.ashbyhq.com/ndeavour/10540e09-f66a-4deb-9ec8-5be198a63f28 | NDEAVOUR CONSULTING | Front-End Developer (React/ReactNative)
+- [ ] https://jobs.ashbyhq.com/neural-earth/660e72db-0a18-4b4a-b696-4311226d3cfa | Neural Earth | Full Stack Engineer (Contractor)
+- [ ] https://jobs.ashbyhq.com/apify/626283b7-23fd-4988-90e8-3f08c307c07a | Apify Technologies | Senior Fullstack Engineer (React/Typescript)
+- [ ] https://jobs.ashbyhq.com/darkroom/ed0c01ff-acc1-4952-882f-27e0958f956b | Darkroom | Full-Stack Engineer
+- [ ] https://jobs.ashbyhq.com/runway-ml/0feb8680-6573-458b-b00d-98aea86a94f5 | Runway | AI Full Stack Engineer
+- [ ] https://jobs.ashbyhq.com/prophetic-technologies/dd39fe44-d924-4b82-82ca-12d77f5c0921 | Prophetic Technologies | Full Stack Software Engineer (Mid-Sr.)
+
+### From WebSearch — WeWorkRemotely (2026-06-28)
+
+- [ ] https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer | Lemon.io | Senior React Native Developer
+
+### From WebSearch — Meesho (2026-06-28)
+
+- [ ] https://www.meesho.io/jobs/android-developer---i?id=f35e1cae-5847-4b92-bd76-c0474197724f | Meesho | Android Developer - I
+- [ ] https://www.meesho.io/jobs/software-development-engineer-ii-android?id=9e135f8a-b465-40d8-be3f-fc38eeb02a6b | Meesho | Software Development Engineer II Android
+- [ ] https://meesho.io/jobs/architect---android?id=8fcf77bc-2e8c-4887-9e96-98c98e5d8d29 | Meesho | Architect - Android
+
+### From WebSearch — Greenhouse (2026-06-28)
+
+- [ ] https://job-boards.greenhouse.io/prophero/jobs/5044561008 | PropHero | Senior Full Stack Software Engineer, Indonesia
+- [ ] https://boards.greenhouse.io/inthepocket/jobs/5113428 | In The Pocket | React Native Developer
+- [ ] https://job-boards.greenhouse.io/mqreferrals/jobs/7305461 | MQ | Staff Software Engineer, Frontend (React-Native)
+- [ ] https://job-boards.greenhouse.io/earnin/jobs/7959337 | EarnIn | Software Engineer
+- [ ] https://job-boards.greenhouse.io/vgw-eu/jobs/8521138002 | VGW EU | Senior Mobile Engineer (React Native + iOS)
+
+### From WebSearch — Instahyre (2026-06-28)
+
+- [ ] https://www.instahyre.com/job-210374-mobile-developer-at-zepto-work-from-home/ | Zepto | Mobile Developer
+
+### From WebSearch — Stripe (2026-06-28)
+
+- [ ] https://stripe.com/jobs/listing/fullstack-engineer-internal-tools/7532806 | Stripe | Fullstack Engineer, Internal Tools
+- [ ] https://stripe.com/jobs/listing/full-stack-engineer-startup-products/7994887 | Stripe | Full Stack Engineer, Startup Products
+- [ ] https://stripe.com/jobs/listing/full-stack-engineer-support-experience/7913464 | Stripe | Full Stack Engineer, Support Experience
+- [ ] https://stripe.com/jobs/listing/software-engineer-product-security-data-platforms/7761694 | Stripe | Software Engineer, Product Security Data Platforms
+- [ ] https://stripe.com/jobs/listing/staff-frontend-engineer-stripe-dashboard/7746721 | Stripe | Staff Frontend Engineer, Stripe Dashboard
+- [ ] https://stripe.com/jobs/listing/full-stack-engineer-developer-experience-product-platform/6567104 | Stripe | Full Stack Engineer, Developer Experience & Product Platform
+- [ ] https://stripe.com/jobs/search?gh_jid=6718539 | Stripe | Full Stack Engineer, Growth
+- [ ] https://stripe.com/jobs/listing/android-engineer-terminal-global-payments/7778627 | Stripe | Android Engineer, Terminal Global Payments
+- [ ] https://stripe.com/jobs/listing/full-stack-engineer-globalization-platform/6591185 | Stripe | Full Stack Engineer, Globalization Platform
+
+### From WebSearch — Hasura (2026-06-28)
+
+- [ ] https://hasura.io/careers/frontend-react-developer/ | Hasura | Frontend React Developer
+
+### From WebSearch — Buffer (2026-06-28)
+
+- [ ] https://buffer.com/journey/6febfd99-d236-48cf-8595-f7d4d0801ec9 | Buffer | Senior Backend Engineer (Platform and API)
+- [ ] https://buffer.com/journey/7d5a1eb1-9603-420d-a3aa-1ec2121fd84f | Buffer | Senior Product Engineer (Frontend)
+
 ## Procesados
