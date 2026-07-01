@@ -887,4 +887,17 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://buffer.com/journey/6febfd99-d236-48cf-8595-f7d4d0801ec9 | Buffer | Senior Backend Engineer (Platform and API)
 - [ ] https://buffer.com/journey/7d5a1eb1-9603-420d-a3aa-1ec2121fd84f | Buffer | Senior Product Engineer (Frontend)
 
+### From Greenhouse APIs — 2026-07-01 scan
+
+- [ ] https://job-boards.greenhouse.io/postman/jobs/7790859003 | Postman | Frontend Engineer, Observability
+- [ ] https://job-boards.greenhouse.io/postman/jobs/7787954003 | Postman | Senior Fullstack Engineer, Observability
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6098390004 | Vercel | Software Engineer, eve
+
+### From WebSearch — Remotive (2026-07-01)
+
+- [ ] https://remotive.com/remote/jobs/software-development/mobile-app-developer-4611926 | Sizanid Staffing | Mobile App Developer
+- [ ] https://remotive.com/remote/jobs/software-development/lead-flutter-engineer-4684179 | Valtech | Lead Flutter Engineer
+- [ ] https://remotive.com/remote/jobs/software-development/senior-product-engineer-5011164 | Pinpoint | Senior Product Engineer
+- [ ] https://remotive.com/remote/jobs/software-development/software-engineer-4426012 | Wingz LatAm | Software Engineer
+
 ## Procesados
