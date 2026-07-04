@@ -900,4 +900,50 @@ Add URLs here for batch evaluation. Run `/career-ops pipeline` to process.
 - [ ] https://remotive.com/remote/jobs/software-development/senior-product-engineer-5011164 | Pinpoint | Senior Product Engineer
 - [ ] https://remotive.com/remote/jobs/software-development/software-engineer-4426012 | Wingz LatAm | Software Engineer
 
+### From Greenhouse APIs — 2026-07-04 scan
+
+- [ ] https://job-boards.greenhouse.io/postman/jobs/7787359003 | Postman | Senior Software Engineer, Marketing Engineering
+- [ ] https://job-boards.greenhouse.io/inmobi/jobs/7790070 | InMobi | SDE IV - Engineering
+- [ ] https://job-boards.greenhouse.io/topsteptrader/jobs/7792960003 | Topstep | Senior Fullstack Engineer (Payments)
+- [ ] https://job-boards.greenhouse.io/liveviewtechnologiesinc/jobs/5290830008 | LVT | Senior Fullstack Software Engineer
+- [ ] https://job-boards.greenhouse.io/headoutlinkedin/jobs/4692865006 | Headout | Software Engineer, Apps
+- [ ] https://job-boards.greenhouse.io/tamara/jobs/4527517101 | Tamara | Mobile Engineer II (Android/Flutter)
+
+### From WebSearch — Ashby (2026-07-04)
+
+- [ ] https://jobs.ashbyhq.com/sitemark/8b2a0d52-6b80-4cb3-8ef2-13c7e7ff39b4 | Sitemark | Senior Full Stack Engineer (React/TypeScript)
+- [ ] https://jobs.ashbyhq.com/apify/e02c02f0-0079-4e98-bb2b-d86257668b41 | Apify Technologies | Senior Backend Engineer (Node.js/TypeScript)
+- [ ] https://jobs.ashbyhq.com/playpowerlabs/ab9231e8-3e3f-41c4-aff2-ff769241a1c7 | Playpower Labs | Senior Software Engineer
+- [ ] https://jobs.ashbyhq.com/warren/ef30d6a0-d17f-4b4b-801c-bc906e661c1f | Warren | Software Engineer TypeScript (React Native)
+- [ ] https://jobs.ashbyhq.com/Acorns/5c0c0052-e8ca-4a40-807a-f18a22ed4ba1 | Acorns | Senior Software Engineer, Android
+- [ ] https://jobs.ashbyhq.com/yazio/e904eadc-df9d-4fe5-aeaa-93abcbc39449 | Yazio | Senior Mobile Engineer (Food Tracking)
+- [ ] https://jobs.ashbyhq.com/supabase/ad92f53a-6d0f-4761-abc3-588c7c7c6cd8 | Supabase | SDK Engineer - Kotlin
+
+### From WebSearch — Lever (2026-07-04)
+
+- [ ] https://jobs.lever.co/jobgether/beb29a80-ab66-405b-80b2-b832be4ab8d9 | Jobgether | Middle Full Stack Engineer for Relay
+- [ ] https://jobs.lever.co/dutch/ef1c88fa-7c07-44d8-95ef-56f45dd4e1e5 | Dutch | Software Engineer (React Native)
+- [ ] https://jobs.lever.co/certifid/55deddc3-97c5-4c12-a015-132a118a2be7 | CertifID | Software Engineer
+
+### From WebSearch — Stripe (2026-07-04)
+
+- [ ] https://stripe.com/jobs/listing/staff-full-stack-engineer-identity/7895467 | Stripe | Staff Full Stack Engineer, Identity
+- [ ] https://stripe.com/jobs/listing/frontend-platform-engineer-javascript-infrastructure/7743307 | Stripe | Frontend Platform Engineer, JavaScript Infrastructure
+- [ ] https://stripe.com/jobs/listing/frontend-engineer-payments-risk/7325252 | Stripe | Frontend Engineer, Payments & Risk
+
+### From WebSearch — Wellfound (2026-07-04)
+
+- [ ] https://wellfound.com/jobs/4333325-full-stack-software-engineer | Aurexillion | Full Stack Software Engineer
+
+### From WebSearch — WeWorkRemotely (2026-07-04)
+
+- [ ] https://weworkremotely.com/remote-jobs/g2i-inc-principal-react-native-developer-fully-remote-us-only | G2i Inc. | Principal React Native Developer (Fully Remote, US only)
+
+### From WebSearch — India portals (2026-07-04)
+
+- [ ] https://peerlist.io/company/sharechat/careers/android-sde2/jobh8o98g6rbgq8poh7eqkejngqemp | ShareChat | Android SDE-2
+- [ ] https://startup.jobs/software-dev-engineer-i-react-native-mobile-swiggy_in-1818075 | Swiggy | Software Dev Engineer I - React Native (Mobile)
+- [ ] https://startup.jobs/software-dev-engineer-ii-mobile-dev-react-native-swiggy_in-1825272 | Swiggy | Software Dev Engineer II - Mobile Dev - React Native
+- [ ] https://www.instahyre.com/job-426224-react-native-developer-at-swiggy-bangalore/ | Swiggy | React Native Developer
+
 ## Procesados
